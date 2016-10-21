@@ -5,7 +5,7 @@ C header parser WIP
 This project "header parser" will take a .ii file (sample included) from:
 
 $ cat >> main.c
-#include <stdio.h>
+#include &#60stdio.h&#62
 void main(){}
 ^D
 $ cpp main.c main.ii
