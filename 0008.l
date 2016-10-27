@@ -105,7 +105,7 @@ int newtype_traverse( char* candidate );
 "_Alignas" { return _Alignas_; }
 "asm" { return asm_; }
 "_Generic" { return _Generic_; }
-"__extension__" { return __extension___; }
+"__extension__" { printf( "EE" ); return __extension___; }
 "__thread" { return __thread_; }
 "__auto_type" { return __auto_type_; }
 "_Decimal32" { return _Decimal32_; }
@@ -124,6 +124,7 @@ int newtype_traverse( char* candidate );
 "__FUNCTION__" { return __FUNCTION___; }
 "__PRETTY_FUNCTION__" { return __PRETTY_FUNCTION___; }
 "__builtin_va_arg" { return __builtin_va_arg_; }
+"__builtin_va_list" { return __builtin_va_list_; }
 "__builtin_offsetof" { return __builtin_offsetof_; }
 "__builtin_choose_expr" { return __builtin_choose_expr_; }
 "__builtin_types_compatible_p" { return __builtin_types_compatible_p_; }

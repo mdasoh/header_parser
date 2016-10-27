@@ -151,7 +151,7 @@ int sclass = 0;
 %token <identifier> _Fract_
 %token <identifier> _Accum_
 %token <identifier> _Sat_
-%token <identifier> typeof_ 
+%token <identifier> typeof_
 %token <identifier> __attribute___
 %token <identifier> __label___
 %token <identifier> __alignof___
@@ -160,6 +160,7 @@ int sclass = 0;
 %token <identifier> __func___
 %token <identifier> __FUNCTION___
 %token <identifier> __PRETTY_FUNCTION___
+%token <identifier> __builtin_va_list_
 %token <identifier> __builtin_va_arg_
 %token <identifier> __builtin_offsetof_
 %token <identifier> __builtin_choose_expr_
@@ -172,6 +173,7 @@ int sclass = 0;
 %type <identifier> external_declaration
 %type <identifier> declaration
 %type <identifier> function_definition
+%type <identifier> function_declaration
 %type <identifier> declaration_list
 %type <identifier> init_declarator_list
 %type <identifier> init_declarator
@@ -293,18 +295,28 @@ external_declarations : external_declaration
                       ;
 
 external_declaration : function_definition { printf( "function" ); }
-                     | declaration { printf( "decl" ); }
+                     | declaration { printf( "decl" ); } //declaration
                      | asm_definition { printf( "asmdef" ); }
                      | semicolon { printf( "stray;" ); }
-                     | __extension___ external_declaration { printf( "extension" ); }
-                     ;
+		     | __extension___ external_declaration { $$ = $2; printf( "extension" ); }
+		     ; //| declarator declaration semicolon { newfunc( $1 ); printf( "initialized" ); }
 
-declaration : declaration_specifiers semicolon 
-            | declaration_specifiers init_declarator_list semicolon { $$ = $2; if( sclass ) { newtype( strdup( $2 ) ); printf( "INITIALIZED%s", $2 ); } }
-            | declaration_specifiers init_declarator_list lparen parameter_type_list rparen semicolon { $$ = $2; if( sclass ) { newtype( strdup( $2 ) ); } printf( "INITIAL_FP%s", $2 ); }
-            | declaration_specifiers init_declarator_list lparen rparen semicolon { $$ = $2; if( sclass ) { newtype( strdup( $2 ) ); } printf( "INITIAL_FP%s", $2 ); }
+declaration : declaration_specifiers semicolon { printf( "NDEC" ); }
+            | function_declaration { printf( "unction" ); }
+            | declaration_specifiers init_declarator_list semicolon { $$ = $2; if( sclass ) { newtype( strdup( $2 ) ); printf( "INITIALIZED%s", $2 ); sclass = 0; } else printf( "NOINIT" ); }
+            | init_declarator_list lparen parameter_type_list rparen semicolon { $$ = $1; if( sclass ) { newtype( strdup( $1 ) ); sclass = 0; } printf( "INITIAL_FP%s", $2 ); }
+            | init_declarator_list lparen rparen semicolon { $$ = $2; if( sclass ) { newtype( strdup( $1 ) ); sclass = 0; } printf( "INITIAL_FP%s", $1 ); }
+            | lparen pointer init_declarator_list rparen lparen rparen semicolon { $$ = $3; if( sclass ) { newtype( strdup( $3 ) ); sclass = 0; } printf( "INITIAL_FP%s", $3 ); }
+            | declaration_specifiers init_declarator_list lparen parameter_type_list rparen semicolon { $$ = $2; if( sclass ) { newtype( strdup( $2 ) ); sclass = 0; } printf( "INITIAL_FP%s", $2 ); }
+            | declaration_specifiers init_declarator_list lparen rparen semicolon { $$ = $2; if( sclass ) { newtype( strdup( $2 ) ); sclass = 0; } printf( "INITIAL_FP%s", $2 ); }
+            | declaration_specifiers lparen pointer init_declarator_list rparen lparen parameter_type_list rparen semicolon { $$ = $4; { newtype( strdup( $4 ) ); sclass = 0; } printf( "INITIAL_FP%s", $4 ); } //sclass?
+            | declaration_specifiers lparen pointer init_declarator_list rparen lparen rparen semicolon { $$ = $4; if( sclass ) { newtype( strdup( $4 ) ); sclass = 0; } printf( "INITIAL_FP%s", $4 ); }
             | static_assert_declaration { printf( "assert" ); }
             ;
+
+function_declaration : declarator declaration { newfunc( $1 ); printf( "initialized" ); }
+                     | declaration_specifiers declarator declaration { $$ = $2; newfunc( $2 ); printf( "declaratordef%s", $2 ); }
+                     ;
 
 function_definition : declarator compound_statement { newfunc( $1 ); printf( "definition" ); }
 		    | declarator declaration_list compound_statement { newfunc( $1 ); printf( "initialized" ); }
@@ -312,7 +324,7 @@ function_definition : declarator compound_statement { newfunc( $1 ); printf( "de
                     | declaration_specifiers declarator declaration_list compound_statement { $$ = $2; newfunc( $2 ); printf( "declaratordef%s", $2 ); }
                     ;
 
-declaration_list : declaration
+declaration_list : declaration { printf( "seen" ); }
                  | declaration_list declaration { printf( "(decl)" ); }
                  ;
 
@@ -320,14 +332,14 @@ init_declarator_list : init_declarator { if( sclass ) printf( "[adeclarator%s]",
                      | init_declarator_list init_declarator { $$ = $2; if( sclass ) printf( "(declarator)" ); }
                      ;
 
-init_declarator : declarator { if( sclass ) printf( "[ideclarator%s]", $1 ); }
-                | declarator assign initializer { printf( "assignment" ); sclass = 0; }
-                | declarator attributes { printf( "ideclarator" ); }
-                | declarator attributes assign initializer { printf( "assignment" ); }
-                | declarator simple_asm_expr { printf( "asmdeclarator" ); sclass = 0; }
-                | declarator simple_asm_expr assign initializer { printf( "asmdeclarator" ); sclass = 0; }
-                | declarator simple_asm_expr attributes { printf( "asmdeclarator" ); sclass = 0; }
-                | declarator simple_asm_expr attributes assign initializer { printf( "asmdeclarator" ); sclass = 0; }
+init_declarator : declarator { $$ = $1; if( sclass ) printf( "[ideclarator%s]", $1 ); }
+                | declarator assign initializer { $$ = $1; printf( "assignment" ); sclass = 0; }
+                | declarator attributes { $$ = $1; printf( "ideclarator" ); }
+                | declarator attributes assign initializer { $$ = $1; printf( "assignment" ); }
+                | declarator simple_asm_expr { $$ = $1; printf( "asmdeclarator" ); sclass = 0; }
+                | declarator simple_asm_expr assign initializer { $$ = $1; printf( "asmdeclarator" ); sclass = 0; }
+                | declarator simple_asm_expr attributes { $$ = $1; printf( "asmdeclarator" ); sclass = 0; }
+                | declarator simple_asm_expr attributes assign initializer { $$ = $1; printf( "asmdeclarator" ); sclass = 0; }
                 ;
 
 nested_function_definition : declaration_specifiers declarator compound_statement { printf( "nested" ); sclass = 0; }
@@ -374,6 +386,7 @@ type_specifier : void_ { printf( "t" ); }
                | char_ { printf( "t" ); }
                | short_ { printf( "t" ); }
                | int_ { printf( "t" ); }
+	       | __builtin_va_list_ { printf( "t" ); }
                | long_ { printf( "t" ); }
                | float_ { printf( "t" ); }
                | double_ { printf( "t" ); }
@@ -471,7 +484,7 @@ struct_declaration_list : struct_declaration semicolon { printf( "s" ); }
 
 struct_declaration : specifier_qualifier_list struct_declarator_list
                    | static_assert_declaration_no_semi
-                   | __extension___ struct_declaration
+                   | __extension___ struct_declaration { printf( "extensionstruct" ); }
                    | specifier_qualifier_list
                    ;
 
@@ -504,7 +517,7 @@ alignment_specifier : _Alignas_ lparen type_name rparen
                     | _Alignas_ lparen constant_expression rparen
                     ;
 
-declarator : direct_declarator { printf( "DIRECT" ); }
+declarator : direct_declarator { $$ = $1; printf( "DIRECT" ); }
            | pointer direct_declarator { $$ = $2; printf( "INDIRECT" ); }
            ;
 
@@ -552,9 +565,9 @@ parameter_list : parameter_declaration
                ;
 
 parameter_declaration : declaration_specifiers declarator { printf( "parameter1" ); } // sclass = 0;
-                      | declaration_specifiers declarator attributes { printf( "parameter2" ); sclass = 0; }
+                      | declaration_specifiers declarator attributes { printf( "parameter2" ); } //sclass = 0; }
                       | declaration_specifiers { printf( "parameter3" ); sclass = 0; }
-                      | declaration_specifiers attributes { printf( "parameter4" ); sclass = 0; }
+                      | declaration_specifiers attributes { printf( "parameter4" ); } //sclass = 0; }
                       | declaration_specifiers abstract_declarator { printf( "abstract3" ); sclass = 0; }
                       | declaration_specifiers abstract_declarator attributes { printf( "abstract4" ); sclass = 0; }
                       ;
@@ -668,7 +681,7 @@ block_item : nested_declaration { printf( "NBITM" ); }
            ;
 
 nested_declaration : declaration { printf( "NDECL" ); }
-                   | __extension___ nested_declaration
+                   | __extension___ nested_declaration { printf( "extensionnested" ); }
                    | nested_function_definition
                    ;
 
@@ -890,7 +903,7 @@ unary_operator : ampersand
                | minus
                | tilde
                | bang
-               | __extension___
+               | __extension___ { printf( "extensionunary" ); }
                | __real___
                | __imag___
                ;
@@ -997,6 +1010,7 @@ void newtype( char* sis )
    boom -> types = sis; //strdup( sis );
    boom -> next = newtype_top;
    newtype_top = boom;
+   printf( "newtype:%s", sis );
    printf( "%s,", sis );
 }
 
