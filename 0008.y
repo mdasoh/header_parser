@@ -450,6 +450,7 @@ struct_or_union_name : struct_or_union attributes
 
 struct_or_union_type : struct_or_union identifier_ { $$ = $2; printf( "ON" ); newstruct( strdup( $2 ) ); }
                      | struct_or_union structype_ { $$ = $2; if( sclass != 1 ) { printf( "OFF" ); sclass = 0; } }
+                     | struct_or_union typedef_name_ { $$ = $2; if( sclass != 1 ) { printf( "OFF" ); sclass = 0; } }
                      | struct_or_union attributes identifier_ { $$ = $3; newstruct( strdup( $2 ) ); }
                      ;
 
