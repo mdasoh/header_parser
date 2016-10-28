@@ -1,0 +1,2336 @@
+/usr/include/X11/DECkeysym.h:
+/usr/include/X11/HPkeysym.h:
+/usr/include/X11/Sunkeysym.h:
+/usr/include/X11/X.h:
+/usr/include/X11/XF86keysym.h:
+/usr/include/X11/XWDFile.h:
+/usr/include/X11/Xalloca.h:
+/usr/include/X11/Xarch.h:
+/usr/include/X11/Xatom.h:
+/usr/include/X11/Xdefs.h:
+/usr/include/X11/Xfuncproto.h:
+/usr/include/X11/Xfuncs.h:
+/usr/include/X11/Xmd.h:
+/usr/include/X11/Xos.h:
+/usr/include/X11/Xos_r.h:
+/usr/include/X11/Xosdefs.h:
+/usr/include/X11/Xpoll.h:
+/usr/include/X11/Xproto.h:
+/usr/include/X11/Xprotostr.h:
+/usr/include/X11/Xthreads.h:
+/usr/include/X11/Xw32defs.h:
+/usr/include/X11/ap_keysym.h:
+/usr/include/X11/keysym.h:
+/usr/include/X11/keysymdef.h:
+/usr/include/X11/extensions/XI.h:
+/usr/include/X11/extensions/XIproto.h:
+/usr/include/X11/extensions/XI2proto.h:
+/usr/include/X11/extensions/XKB.h:
+/usr/include/X11/extensions/XKBproto.h:
+/usr/include/X11/extensions/XKBstr.h:(standard input)
+
+/usr/include/X11/extensions/XI2.h:
+/usr/include/X11/extensions/XKBgeom.h:(standard input)
+
+/usr/include/X11/extensions/renderproto.h:(standard input)
+
+/usr/include/X11/extensions/xtestext1proto.h:(standard input)
+
+/usr/include/X11/extensions/shmstr.h:(standard input)
+
+/usr/include/X11/extensions/render.h:
+/usr/include/X11/extensions/Xrender.h:
+/usr/include/X11/extensions/xtestext1const.h:
+/usr/include/X11/extensions/xtestconst.h:
+/usr/include/X11/extensions/syncstr.h:(standard input)
+
+/usr/include/X11/extensions/syncproto.h:(standard input)
+
+/usr/include/X11/extensions/syncconst.h:(standard input)
+
+/usr/include/X11/extensions/shmproto.h:(standard input)
+
+/usr/include/X11/extensions/shm.h:
+/usr/include/X11/extensions/shapestr.h:(standard input)
+
+/usr/include/X11/extensions/shapeproto.h:(standard input)
+
+/usr/include/X11/extensions/shapeconst.h:
+/usr/include/X11/extensions/securproto.h:(standard input)
+
+/usr/include/X11/extensions/secur.h:
+/usr/include/X11/extensions/multibufproto.h:(standard input)
+
+/usr/include/X11/extensions/multibufconst.h:
+/usr/include/X11/extensions/mitmiscproto.h:(standard input)
+
+/usr/include/X11/extensions/mitmiscconst.h:
+/usr/include/X11/extensions/lbxproto.h:(standard input)
+
+/usr/include/X11/extensions/lbx.h:
+/usr/include/X11/extensions/geproto.h:
+/usr/include/X11/extensions/ge.h:
+/usr/include/X11/extensions/EVIproto.h:(standard input)
+
+/usr/include/X11/extensions/EVI.h:
+/usr/include/X11/extensions/dpmsproto.h:(standard input)
+
+/usr/include/X11/extensions/dpmsconst.h:
+/usr/include/X11/extensions/dbeproto.h:(standard input)
+
+/usr/include/X11/extensions/dbe.h:
+/usr/include/X11/extensions/cupproto.h:(standard input)
+
+/usr/include/X11/extensions/cup.h:
+/usr/include/X11/extensions/agproto.h:(standard input)
+
+/usr/include/X11/extensions/ag.h:
+/usr/include/X11/extensions/xfixesproto.h:
+/usr/include/X11/extensions/Xdbe.h:(standard input)
+
+/usr/include/X11/extensions/sync.h:(standard input)
+
+/usr/include/X11/extensions/xfixeswire.h:
+/usr/include/X11/extensions/Xfixes.h:
+/usr/include/X11/extensions/XShm.h:(standard input)
+
+/usr/include/X11/extensions/Xge.h:
+/usr/include/X11/extensions/MITMisc.h:(standard input)
+
+/usr/include/X11/extensions/security.h:(standard input)
+
+/usr/include/X11/extensions/Xext.h:(standard input)
+
+/usr/include/X11/extensions/multibuf.h:(standard input)
+
+/usr/include/X11/extensions/extutil.h:(standard input)
+
+/usr/include/X11/extensions/shape.h:
+/usr/include/X11/extensions/dpms.h:(standard input)
+
+/usr/include/X11/extensions/Xag.h:(standard input)
+
+/usr/include/X11/extensions/Xcup.h:(standard input)
+
+/usr/include/X11/extensions/XEVI.h:(standard input)
+
+/usr/include/X11/extensions/XLbx.h:
+/usr/include/X11/extensions/xtestproto.h:(standard input)
+
+/usr/include/X11/extensions/xtestext1.h:(standard input)
+
+/usr/include/X11/extensions/xf86vmproto.h:
+/usr/include/X11/extensions/xf86vmstr.h:
+/usr/include/X11/extensions/damagewire.h:
+/usr/include/X11/extensions/Xdamage.h:
+/usr/include/X11/extensions/xf86vm.h:
+/usr/include/X11/extensions/xf86vmode.h:(standard input)
+
+/usr/include/X11/extensions/dri2tokens.h:
+/usr/include/X11/extensions/Xv.h:
+/usr/include/X11/extensions/damageproto.h:(standard input)
+
+/usr/include/X11/extensions/XInput2.h:
+/usr/include/X11/extensions/dri2proto.h:(standard input)
+
+/usr/include/X11/extensions/panoramiXproto.h:(standard input)
+
+/usr/include/X11/extensions/XInput.h:
+/usr/include/X11/extensions/panoramiXext.h:(standard input)
+
+/usr/include/X11/extensions/randr.h:
+/usr/include/X11/extensions/Xrandr.h:
+/usr/include/X11/extensions/Xinerama.h:
+/usr/include/X11/extensions/scrnsaver.h:
+/usr/include/X11/extensions/randrproto.h:(standard input)
+
+/usr/include/X11/extensions/saver.h:
+/usr/include/X11/extensions/XvMC.h:
+/usr/include/X11/extensions/saverproto.h:(standard input)
+
+/usr/include/X11/extensions/Xvproto.h:
+/usr/include/X11/extensions/vldXvMC.h:
+/usr/include/X11/extensions/Xvlib.h:(standard input)
+
+/usr/include/X11/extensions/XvMCproto.h:(standard input)
+
+/usr/include/X11/Xauth.h:
+/usr/include/X11/Xdmcp.h:
+/usr/include/X11/Xresource.h:
+/usr/include/X11/Xtrans/Xtransint.h:
+/usr/include/X11/Xtrans/Xtrans.h:
+/usr/include/X11/Xregion.h:(standard input)
+
+/usr/include/X11/Xlocale.h:
+/usr/include/X11/Xlibint.h:(standard input)
+
+/usr/include/X11/XlibConf.h:
+/usr/include/X11/Xlib.h:
+/usr/include/X11/XKBlib.h:
+/usr/include/X11/Xcms.h:
+/usr/include/X11/ImUtil.h:(standard input)
+
+/usr/include/X11/cursorfont.h:
+/usr/include/X11/Xlib-xcb.h:(standard input)
+
+/usr/include/X11/Xcursor/Xcursor.h:
+/usr/include/X11/xpm.h:
+/usr/include/X11/ICE/ICEconn.h:
+/usr/include/X11/ICE/ICElib.h:
+/usr/include/X11/ICE/ICEmsg.h:
+/usr/include/X11/ICE/ICEproto.h:
+/usr/include/X11/ICE/ICEutil.h:(standard input)
+
+/usr/include/X11/ICE/ICE.h:
+/usr/include/X11/Xtos.h:
+/usr/include/X11/SM/SMlib.h:
+/usr/include/X11/SM/SMproto.h:
+/usr/include/X11/SM/SM.h:
+/usr/include/X11/Xutil.h:
+/usr/include/X11/xshmfence.h:
+/usr/include/X11/VendorP.h:(standard input)
+
+/usr/include/X11/Vendor.h:
+/usr/include/X11/VarargsI.h:(standard input)
+
+/usr/include/X11/TranslateI.h:(standard input)
+
+/usr/include/X11/ThreadsI.h:(standard input)
+
+/usr/include/X11/StringDefs.h:
+/usr/include/X11/ShellP.h:(standard input)
+
+/usr/include/X11/ShellI.h:(standard input)
+
+/usr/include/X11/Shell.h:
+/usr/include/X11/SelectionI.h:
+/usr/include/X11/ResourceI.h:(standard input)
+
+/usr/include/X11/ResConfigP.h:(standard input)
+
+/usr/include/X11/RectObjP.h:(standard input)
+
+/usr/include/X11/RectObj.h:(standard input)
+
+/usr/include/X11/PassivGraI.h:(standard input)
+
+/usr/include/X11/ObjectP.h:(standard input)
+
+/usr/include/X11/Object.h:(standard input)
+
+/usr/include/X11/IntrinsicP.h:
+/usr/include/X11/IntrinsicI.h:
+/usr/include/X11/Intrinsic.h:
+/usr/include/X11/InitialI.h:(standard input)
+
+/usr/include/X11/HookObjI.h:(standard input)
+
+/usr/include/X11/EventI.h:(standard input)
+
+/usr/include/X11/CreateI.h:(standard input)
+
+/usr/include/X11/CoreP.h:(standard input)
+
+/usr/include/X11/Core.h:(standard input)
+
+/usr/include/X11/ConvertI.h:(standard input)
+
+/usr/include/X11/Constraint.h:(standard input)
+
+/usr/include/X11/ConstrainP.h:(standard input)
+
+/usr/include/X11/CompositeP.h:(standard input)
+
+/usr/include/X11/Composite.h:(standard input)
+
+/usr/include/X11/CallbackI.h:(standard input)
+
+/usr/include/_G_config.h:
+/usr/include/aio.h:
+/usr/include/aliases.h:
+/usr/include/alloca.h:
+/usr/include/ar.h:
+/usr/include/argp.h:
+/usr/include/argz.h:
+/usr/include/arpa/ftp.h:
+/usr/include/arpa/inet.h:
+/usr/include/arpa/nameser.h:
+/usr/include/arpa/nameser_compat.h:
+/usr/include/arpa/telnet.h:
+/usr/include/arpa/tftp.h:
+/usr/include/arpalert.h:
+/usr/include/assert.h:
+/usr/include/btrfs/ioctl.h:(standard input)
+
+/usr/include/btrfs/btrfsck.h:(standard input)
+
+/usr/include/btrfs/ctree.h:(standard input)
+
+/usr/include/btrfs/extent_io.h:(standard input)
+
+/usr/include/btrfs/extent-cache.h:(standard input)
+
+/usr/include/btrfs/radix-tree.h:(standard input)
+
+/usr/include/btrfs/kerncompat.h:(standard input)
+
+/usr/include/btrfs/list.h:(standard input)
+
+/usr/include/btrfs/crc32c.h:(standard input)
+
+/usr/include/btrfs/btrfs-list.h:(standard input)
+
+/usr/include/btrfs/rbtree.h:(standard input)
+
+/usr/include/btrfs/send.h:(standard input)
+
+/usr/include/btrfs/send-utils.h:(standard input)
+
+/usr/include/btrfs/send-stream.h:(standard input)
+
+/usr/include/btrfs/version.h:
+/usr/include/byteswap.h:
+/usr/include/clif.h:
+/usr/include/complex.h:
+/usr/include/cpio.h:
+/usr/include/crypt.h:
+/usr/include/ctype.h:
+/usr/include/dbus-1.0/dbus/dbus-shared.h:
+/usr/include/dbus-1.0/dbus/dbus-protocol.h:
+/usr/include/dirent.h:
+/usr/include/dlfcn.h:
+/usr/include/elf.h:
+/usr/include/endian.h:
+/usr/include/envz.h:
+/usr/include/err.h:
+/usr/include/errno.h:
+/usr/include/error.h:
+/usr/include/execinfo.h:
+/usr/include/fcntl.h:
+/usr/include/features.h:
+/usr/include/fenv.h:
+/usr/include/fmtmsg.h:
+/usr/include/fnmatch.h:
+/usr/include/fstab.h:
+/usr/include/fts.h:
+/usr/include/ftw.h:
+/usr/include/gconv.h:
+/usr/include/getopt.h:
+/usr/include/glob.h:
+/usr/include/gnu-versions.h:
+/usr/include/grp.h:
+/usr/include/gshadow.h:
+/usr/include/iconv.h:
+/usr/include/ifaddrs.h:
+/usr/include/reglib/regdb.h:
+/usr/include/reglib/nl80211.h:
+/usr/include/reglib/reglib.h:
+/usr/include/inttypes.h:
+/usr/include/langinfo.h:
+/usr/include/lastlog.h:
+/usr/include/libgen.h:
+/usr/include/libintl.h:
+/usr/include/libio.h:
+/usr/include/limits.h:
+/usr/include/link.h:
+/usr/include/xen/gntdev.h:(standard input)
+
+/usr/include/xen/gntalloc.h:
+/usr/include/xen/evtchn.h:
+/usr/include/locale.h:
+/usr/include/malloc.h:
+/usr/include/math.h:
+/usr/include/mcheck.h:(standard input)
+
+/usr/include/memory.h:
+/usr/include/mntent.h:
+/usr/include/monetary.h:
+/usr/include/mqueue.h:
+/usr/include/rdma/rdma_netlink.h:
+/usr/include/rdma/ib_user_verbs.h:
+/usr/include/rdma/ib_user_sa.h:
+/usr/include/rdma/ib_user_mad.h:
+/usr/include/rdma/ib_user_cm.h:
+/usr/include/rdma/hfi/hfi1_user.h:
+/usr/include/rdma/rdma_user_cm.h:
+/usr/include/net/ethernet.h:
+/usr/include/net/if.h:
+/usr/include/net/if_arp.h:
+/usr/include/net/if_packet.h:
+/usr/include/net/if_ppp.h:(standard input)
+
+/usr/include/net/if_shaper.h:
+/usr/include/net/if_slip.h:
+/usr/include/net/ppp-comp.h:
+/usr/include/net/ppp_defs.h:
+/usr/include/net/route.h:
+/usr/include/netash/ash.h:
+/usr/include/netatalk/at.h:(standard input)
+
+/usr/include/netax25/ax25.h:
+/usr/include/netdb.h:
+/usr/include/neteconet/ec.h:
+/usr/include/netinet/ether.h:
+/usr/include/netinet/icmp6.h:
+/usr/include/netinet/if_ether.h:
+/usr/include/netinet/if_fddi.h:
+/usr/include/netinet/if_tr.h:
+/usr/include/netinet/igmp.h:
+/usr/include/netinet/in.h:
+/usr/include/netinet/in_systm.h:
+/usr/include/netinet/ip.h:
+/usr/include/netinet/ip6.h:
+/usr/include/netinet/ip_icmp.h:
+/usr/include/netinet/tcp.h:
+/usr/include/netinet/udp.h:
+/usr/include/netipx/ipx.h:
+/usr/include/netiucv/iucv.h:
+/usr/include/netpacket/packet.h:
+/usr/include/netrom/netrom.h:
+/usr/include/netrose/rose.h:(standard input)
+
+/usr/include/nfs/nfs.h:
+/usr/include/nilfs.h:(standard input)
+
+/usr/include/nilfs2_fs.h:(standard input)
+
+/usr/include/nilfs_cleaner.h:(standard input)
+
+/usr/include/nl_types.h:
+/usr/include/nss.h:
+/usr/include/allegro/3dmaths.h:
+/usr/include/allegro/fixed.h:
+/usr/include/allegro/compiled.h:
+/usr/include/allegro/font.h:(standard input)
+
+/usr/include/allegro/3d.h:
+/usr/include/allegro/gui.h:(standard input)
+
+/usr/include/allegro/datafile.h:(standard input)
+
+/usr/include/allegro/palette.h:
+/usr/include/allegro/text.h:
+/usr/include/allegro/alinline.h:(standard input)
+
+/usr/include/allegro/gfx.h:
+/usr/include/allegro/digi.h:
+/usr/include/allegro/system.h:
+/usr/include/allegro/lzss.h:(standard input)
+
+/usr/include/allegro/midi.h:
+/usr/include/allegro/graphics.h:
+/usr/include/allegro/timer.h:
+/usr/include/allegro/fix.h:
+/usr/include/allegro/stream.h:
+/usr/include/allegro/keyboard.h:
+/usr/include/allegro/quat.h:
+/usr/include/allegro/fli.h:
+/usr/include/allegro/fmaths.h:
+/usr/include/allegro/sound.h:
+/usr/include/allegro/rle.h:
+/usr/include/allegro/alcompat.h:(standard input)
+
+/usr/include/allegro/platform/aintlnx.h:(standard input)
+
+/usr/include/allegro/platform/alunixac.hin:
+/usr/include/allegro/platform/albeos.h:(standard input)
+
+/usr/include/allegro/platform/aintosx.h:
+/usr/include/allegro/platform/almac.h:(standard input)
+
+/usr/include/allegro/platform/alosxcfg.h:
+/usr/include/allegro/platform/alucfg.h:
+/usr/include/allegro/platform/alqnx.h:(standard input)
+
+/usr/include/allegro/platform/albecfg.h:
+/usr/include/allegro/platform/alqnxcfg.h:
+/usr/include/allegro/platform/aintunix.h:(standard input)
+
+/usr/include/allegro/platform/macdef.h:
+/usr/include/allegro/platform/alplatf.h:
+/usr/include/allegro/platform/alunixac.h:
+/usr/include/allegro/mouse.h:
+/usr/include/allegro/config.h:
+/usr/include/allegro/draw.h:
+/usr/include/allegro/base.h:
+/usr/include/allegro/color.h:
+/usr/include/allegro/unicode.h:
+/usr/include/allegro/joystick.h:
+/usr/include/allegro/file.h:
+/usr/include/allegro/internal/alconfig.h:
+/usr/include/allegro/debug.h:
+/usr/include/allegro/matrix.h:
+/usr/include/obstack.h:(standard input)
+
+/usr/include/xorg/isdv4.h:(standard input)
+
+/usr/include/xorg/wacom-properties.h:
+/usr/include/xorg/Xwacom.h:
+/usr/include/xorg/wacom-util.h:
+/usr/include/paths.h:
+/usr/include/poll.h:
+/usr/include/printf.h:
+/usr/include/protocols/routed.h:
+/usr/include/protocols/rwhod.h:
+/usr/include/protocols/talkd.h:
+/usr/include/protocols/timed.h:
+/usr/include/pthread.h:
+/usr/include/pty.h:
+/usr/include/pwd.h:
+/usr/include/python2.6/pyconfig.h:
+/usr/include/initreq.h:
+/usr/include/libudev.h:
+/usr/include/gawkapi.h:(standard input)
+
+/usr/include/mtd/nftl-user.h:
+/usr/include/mtd/mtd-user.h:
+/usr/include/mtd/mtd-abi.h:
+/usr/include/mtd/inftl-user.h:
+/usr/include/mtd/ubi-user.h:
+/usr/include/re_comp.h:(standard input)
+
+/usr/include/regex.h:(standard input)
+
+/usr/include/resolv.h:
+/usr/include/rpc/auth.h:(standard input)
+
+/usr/include/rpc/auth_des.h:(standard input)
+
+/usr/include/rpc/auth_unix.h:(standard input)
+
+/usr/include/rpc/clnt.h:(standard input)
+
+/usr/include/rpc/des_crypt.h:
+/usr/include/rpc/key_prot.h:(standard input)
+
+/usr/include/rpc/netdb.h:
+/usr/include/rpc/pmap_clnt.h:(standard input)
+
+/usr/include/rpc/pmap_prot.h:(standard input)
+
+/usr/include/rpc/pmap_rmt.h:(standard input)
+
+/usr/include/rpc/rpc.h:(standard input)
+
+/usr/include/rpc/rpc_des.h:(standard input)
+
+/usr/include/rpc/rpc_msg.h:(standard input)
+
+/usr/include/rpc/svc.h:(standard input)
+
+/usr/include/rpc/svc_auth.h:(standard input)
+
+/usr/include/rpc/types.h:
+/usr/include/rpc/xdr.h:(standard input)
+
+/usr/include/rpcsvc/bootparam.h:(standard input)
+
+/usr/include/rpcsvc/bootparam_prot.h:(standard input)
+
+/usr/include/rpcsvc/key_prot.h:(standard input)
+
+/usr/include/rpcsvc/klm_prot.h:(standard input)
+
+/usr/include/rpcsvc/mount.h:(standard input)
+
+/usr/include/rpcsvc/nfs_prot.h:(standard input)
+
+/usr/include/rpcsvc/nis.h:(standard input)
+
+/usr/include/rpcsvc/nis_callback.h:(standard input)
+
+/usr/include/rpcsvc/nis_tags.h:
+/usr/include/rpcsvc/nislib.h:(standard input)
+
+/usr/include/rpcsvc/nlm_prot.h:(standard input)
+
+/usr/include/rpcsvc/rex.h:(standard input)
+
+/usr/include/rpcsvc/rquota.h:(standard input)
+
+/usr/include/rpcsvc/rstat.h:(standard input)
+
+/usr/include/rpcsvc/rusers.h:(standard input)
+
+/usr/include/rpcsvc/sm_inter.h:(standard input)
+
+/usr/include/rpcsvc/spray.h:(standard input)
+
+/usr/include/rpcsvc/yp.h:(standard input)
+
+/usr/include/rpcsvc/yp_prot.h:(standard input)
+
+/usr/include/rpcsvc/ypclnt.h:
+/usr/include/rpcsvc/yppasswd.h:(standard input)
+
+/usr/include/rpcsvc/ypupd.h:(standard input)
+
+/usr/include/sched.h:
+/usr/include/scsi/scsi.h:
+/usr/include/scsi/scsi_ioctl.h:
+/usr/include/scsi/sg.h:
+/usr/include/search.h:
+/usr/include/semaphore.h:
+/usr/include/setjmp.h:
+/usr/include/sgtty.h:
+/usr/include/shadow.h:
+/usr/include/signal.h:
+/usr/include/video/sisfb.h:
+/usr/include/video/edid.h:
+/usr/include/video/uvesafb.h:
+/usr/include/spawn.h:
+/usr/include/stab.h:
+/usr/include/stdint.h:
+/usr/include/stdio.h:
+/usr/include/stdio_ext.h:
+/usr/include/stdlib.h:
+/usr/include/string.h:
+/usr/include/strings.h:
+/usr/include/stropts.h:
+/usr/include/asm-generic/ucontext.h:(standard input)
+
+/usr/include/asm-generic/types.h:
+/usr/include/asm-generic/termios.h:
+/usr/include/asm-generic/termbits.h:
+/usr/include/asm-generic/swab.h:
+/usr/include/asm-generic/statfs.h:
+/usr/include/asm-generic/stat.h:
+/usr/include/asm-generic/sockios.h:
+/usr/include/asm-generic/socket.h:
+/usr/include/asm-generic/signal.h:(standard input)
+
+/usr/include/asm-generic/signal-defs.h:
+/usr/include/asm-generic/siginfo.h:
+/usr/include/asm-generic/shmparam.h:
+/usr/include/asm-generic/shmbuf.h:(standard input)
+
+/usr/include/asm-generic/setup.h:
+/usr/include/asm-generic/sembuf.h:(standard input)
+
+/usr/include/asm-generic/resource.h:
+/usr/include/asm-generic/posix_types.h:
+/usr/include/asm-generic/poll.h:
+/usr/include/asm-generic/param.h:
+/usr/include/asm-generic/msgbuf.h:(standard input)
+
+/usr/include/asm-generic/mman.h:
+/usr/include/asm-generic/mman-common.h:
+/usr/include/asm-generic/kvm_para.h:
+/usr/include/asm-generic/ipcbuf.h:(standard input)
+
+/usr/include/asm-generic/ioctls.h:
+/usr/include/asm-generic/ioctl.h:
+/usr/include/asm-generic/int-ll64.h:
+/usr/include/asm-generic/int-l64.h:
+/usr/include/asm-generic/fcntl.h:
+/usr/include/asm-generic/errno.h:
+/usr/include/asm-generic/errno-base.h:
+/usr/include/asm-generic/bitsperlong.h:
+/usr/include/asm-generic/auxvec.h:
+/usr/include/asm-generic/unistd.h:
+/usr/include/syscall.h:
+/usr/include/sysexits.h:
+/usr/include/syslog.h:
+/usr/include/tar.h:
+/usr/include/termio.h:
+/usr/include/termios.h:
+/usr/include/thread_db.h:
+/usr/include/time.h:
+/usr/include/ttyent.h:
+/usr/include/ucontext.h:
+/usr/include/ulimit.h:
+/usr/include/unistd.h:
+/usr/include/ustat.h:
+/usr/include/utime.h:
+/usr/include/utmp.h:
+/usr/include/utmpx.h:
+/usr/include/values.h:
+/usr/include/sound/sb16_csp.h:
+/usr/include/sound/hdspm.h:(standard input)
+
+/usr/include/sound/hdsp.h:(standard input)
+
+/usr/include/sound/firewire.h:
+/usr/include/sound/emu10k1.h:
+/usr/include/sound/compress_params.h:
+/usr/include/sound/compress_offload.h:
+/usr/include/sound/asound_fm.h:
+/usr/include/sound/asound.h:
+/usr/include/sound/asequencer.h:
+/usr/include/sound/tlv.h:
+/usr/include/sound/usb_stream.h:
+/usr/include/sound/sfnt_info.h:
+/usr/include/wait.h:
+/usr/include/wchar.h:
+/usr/include/wctype.h:
+/usr/include/wordexp.h:
+/usr/include/x86_64-linux-gnu/bits/sockaddr.h:
+/usr/include/x86_64-linux-gnu/bits/sysctl.h:
+/usr/include/x86_64-linux-gnu/bits/auxv.h:
+/usr/include/x86_64-linux-gnu/bits/initspin.h:
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+/usr/include/x86_64-linux-gnu/bits/types.h:
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+/usr/include/x86_64-linux-gnu/bits/time.h:
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+/usr/include/x86_64-linux-gnu/bits/signum.h:
+/usr/include/x86_64-linux-gnu/bits/fenvinline.h:
+/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
+/usr/include/x86_64-linux-gnu/asm/unistd_64.h:
+/usr/include/x86_64-linux-gnu/asm/unistd_32.h:
+/usr/include/x86_64-linux-gnu/asm/msr-index.h:
+/usr/include/x86_64-linux-gnu/asm/vsyscall.h:
+/usr/include/x86_64-linux-gnu/asm/vmx.h:
+/usr/include/x86_64-linux-gnu/asm/vm86.h:
+/usr/include/x86_64-linux-gnu/asm/unistd.h:
+/usr/include/x86_64-linux-gnu/asm/ucontext.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/types.h:
+/usr/include/x86_64-linux-gnu/asm/termios.h:
+/usr/include/x86_64-linux-gnu/asm/termbits.h:
+/usr/include/x86_64-linux-gnu/asm/swab.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/svm.h:
+/usr/include/x86_64-linux-gnu/asm/statfs.h:
+/usr/include/x86_64-linux-gnu/asm/stat.h:
+/usr/include/x86_64-linux-gnu/asm/sockios.h:
+/usr/include/x86_64-linux-gnu/asm/socket.h:
+/usr/include/x86_64-linux-gnu/asm/signal.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/siginfo.h:
+/usr/include/x86_64-linux-gnu/asm/sigcontext32.h:
+/usr/include/x86_64-linux-gnu/asm/sigcontext.h:
+/usr/include/x86_64-linux-gnu/asm/shmbuf.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/setup.h:
+/usr/include/x86_64-linux-gnu/asm/sembuf.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/resource.h:
+/usr/include/x86_64-linux-gnu/asm/ptrace.h:
+/usr/include/x86_64-linux-gnu/asm/ptrace-abi.h:
+/usr/include/x86_64-linux-gnu/asm/processor-flags.h:
+/usr/include/x86_64-linux-gnu/asm/prctl.h:
+/usr/include/x86_64-linux-gnu/asm/posix_types_x32.h:
+/usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
+/usr/include/x86_64-linux-gnu/asm/posix_types_32.h:
+/usr/include/x86_64-linux-gnu/asm/posix_types.h:
+/usr/include/x86_64-linux-gnu/asm/poll.h:
+/usr/include/x86_64-linux-gnu/asm/perf_regs.h:
+/usr/include/x86_64-linux-gnu/asm/param.h:
+/usr/include/x86_64-linux-gnu/asm/mtrr.h:
+/usr/include/x86_64-linux-gnu/asm/msr.h:
+/usr/include/x86_64-linux-gnu/asm/msgbuf.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/mman.h:
+/usr/include/x86_64-linux-gnu/asm/mce.h:
+/usr/include/x86_64-linux-gnu/asm/ldt.h:
+/usr/include/x86_64-linux-gnu/asm/kvm_perf.h:
+/usr/include/x86_64-linux-gnu/asm/kvm_para.h:
+/usr/include/x86_64-linux-gnu/asm/kvm.h:
+/usr/include/x86_64-linux-gnu/asm/ist.h:
+/usr/include/x86_64-linux-gnu/asm/ipcbuf.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/ioctls.h:
+/usr/include/x86_64-linux-gnu/asm/ioctl.h:
+/usr/include/x86_64-linux-gnu/asm/hyperv.h:
+/usr/include/x86_64-linux-gnu/asm/hw_breakpoint.h:
+/usr/include/x86_64-linux-gnu/asm/fcntl.h:
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+/usr/include/x86_64-linux-gnu/asm/e820.h:
+/usr/include/x86_64-linux-gnu/asm/debugreg.h:
+/usr/include/x86_64-linux-gnu/asm/byteorder.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/asm/bootparam.h:
+/usr/include/x86_64-linux-gnu/asm/boot.h:
+/usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
+/usr/include/x86_64-linux-gnu/asm/auxvec.h:
+/usr/include/x86_64-linux-gnu/asm/a.out.h:
+/usr/include/x86_64-linux-gnu/asm/unistd_x32.h:
+/usr/include/x86_64-linux-gnu/ieee754.h:
+/usr/include/x86_64-linux-gnu/fpu_control.h:
+/usr/include/x86_64-linux-gnu/sys/bitypes.h:
+/usr/include/x86_64-linux-gnu/sys/procfs.h:
+/usr/include/x86_64-linux-gnu/sys/profil.h:
+/usr/include/x86_64-linux-gnu/sys/gmon_out.h:
+/usr/include/x86_64-linux-gnu/sys/gmon.h:
+/usr/include/x86_64-linux-gnu/sys/shm.h:
+/usr/include/x86_64-linux-gnu/sys/sem.h:
+/usr/include/x86_64-linux-gnu/sys/msg.h:
+/usr/include/x86_64-linux-gnu/sys/ipc.h:
+/usr/include/x86_64-linux-gnu/sys/socketvar.h:
+/usr/include/x86_64-linux-gnu/sys/un.h:
+/usr/include/x86_64-linux-gnu/sys/socket.h:
+/usr/include/x86_64-linux-gnu/sys/mtio.h:
+/usr/include/x86_64-linux-gnu/sys/fanotify.h:
+/usr/include/x86_64-linux-gnu/sys/timerfd.h:
+/usr/include/x86_64-linux-gnu/sys/eventfd.h:
+/usr/include/x86_64-linux-gnu/sys/signalfd.h:
+/usr/include/x86_64-linux-gnu/sys/epoll.h:
+/usr/include/x86_64-linux-gnu/sys/personality.h:
+/usr/include/x86_64-linux-gnu/sys/raw.h:
+/usr/include/x86_64-linux-gnu/sys/ultrasound.h:
+/usr/include/x86_64-linux-gnu/sys/pci.h:
+/usr/include/x86_64-linux-gnu/sys/fsuid.h:
+/usr/include/x86_64-linux-gnu/sys/quota.h:
+/usr/include/x86_64-linux-gnu/sys/vt.h:
+/usr/include/x86_64-linux-gnu/sys/soundcard.h:
+/usr/include/x86_64-linux-gnu/sys/kd.h:
+/usr/include/x86_64-linux-gnu/sys/prctl.h:
+/usr/include/x86_64-linux-gnu/sys/user.h:
+/usr/include/x86_64-linux-gnu/sys/klog.h:
+/usr/include/x86_64-linux-gnu/sys/sysctl.h:
+/usr/include/x86_64-linux-gnu/sys/acct.h:
+/usr/include/x86_64-linux-gnu/sys/mount.h:
+/usr/include/x86_64-linux-gnu/sys/io.h:
+/usr/include/x86_64-linux-gnu/sys/debugreg.h:
+/usr/include/x86_64-linux-gnu/sys/vm86.h:
+/usr/include/x86_64-linux-gnu/sys/reg.h:
+/usr/include/x86_64-linux-gnu/sys/perm.h:
+/usr/include/x86_64-linux-gnu/sys/elf.h:
+/usr/include/x86_64-linux-gnu/sys/auxv.h:
+/usr/include/x86_64-linux-gnu/sys/syslog.h:
+/usr/include/x86_64-linux-gnu/sys/xattr.h:
+/usr/include/x86_64-linux-gnu/sys/sysinfo.h:
+/usr/include/x86_64-linux-gnu/sys/ustat.h:
+/usr/include/x86_64-linux-gnu/sys/select.h:
+/usr/include/x86_64-linux-gnu/sys/swap.h:
+/usr/include/x86_64-linux-gnu/sys/syscall.h:
+/usr/include/x86_64-linux-gnu/sys/queue.h:
+/usr/include/x86_64-linux-gnu/sys/param.h:
+/usr/include/x86_64-linux-gnu/sys/mman.h:
+/usr/include/x86_64-linux-gnu/sys/reboot.h:
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+/usr/include/x86_64-linux-gnu/sys/dir.h:
+/usr/include/x86_64-linux-gnu/sys/file.h:
+/usr/include/x86_64-linux-gnu/sys/ptrace.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/sys/ioctl.h:
+/usr/include/x86_64-linux-gnu/sys/uio.h:
+/usr/include/x86_64-linux-gnu/sys/vtimes.h:
+/usr/include/x86_64-linux-gnu/sys/vlimit.h:(standard input)
+
+/usr/include/x86_64-linux-gnu/sys/resource.h:
+/usr/include/x86_64-linux-gnu/sys/ttychars.h:
+/usr/include/x86_64-linux-gnu/sys/termios.h:
+/usr/include/x86_64-linux-gnu/sys/ttydefaults.h:
+/usr/include/x86_64-linux-gnu/sys/sendfile.h:
+/usr/include/x86_64-linux-gnu/sys/poll.h:
+/usr/include/x86_64-linux-gnu/sys/fcntl.h:
+/usr/include/x86_64-linux-gnu/sys/statvfs.h:
+/usr/include/x86_64-linux-gnu/sys/vfs.h:
+/usr/include/x86_64-linux-gnu/sys/statfs.h:
+/usr/include/x86_64-linux-gnu/sys/stat.h:
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+/usr/include/x86_64-linux-gnu/sys/unistd.h:
+/usr/include/x86_64-linux-gnu/sys/types.h:
+/usr/include/x86_64-linux-gnu/sys/wait.h:
+/usr/include/x86_64-linux-gnu/sys/times.h:
+/usr/include/x86_64-linux-gnu/sys/utsname.h:
+/usr/include/x86_64-linux-gnu/sys/timex.h:
+/usr/include/x86_64-linux-gnu/sys/timeb.h:
+/usr/include/x86_64-linux-gnu/sys/time.h:
+/usr/include/x86_64-linux-gnu/sys/ucontext.h:
+/usr/include/x86_64-linux-gnu/sys/signal.h:
+/usr/include/x86_64-linux-gnu/sys/errno.h:
+/usr/include/x86_64-linux-gnu/sys/inotify.h:
+/usr/include/x86_64-linux-gnu/sys/stropts.h:
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+/usr/include/x86_64-linux-gnu/gnu/lib-names.h:
+/usr/include/x86_64-linux-gnu/gnu/libc-version.h:
+/usr/include/x86_64-linux-gnu/zconf.h:
+/usr/include/x86_64-linux-gnu/expat_config.h:
+/usr/include/x86_64-linux-gnu/jconfig.h:
+/usr/include/x86_64-linux-gnu/a.out.h:
+/usr/include/x86_64-linux-gnu/openssl/opensslconf.h:
+/usr/include/misc/cxl.h:
+/usr/include/xlocale.h:
+/usr/include/uchar.h:(standard input)
+
+/usr/include/gnumake.h:
+/usr/include/stdc-predef.h:
+/usr/include/allegro.h:(standard input)
+
+/usr/include/xcb/xcbext.h:
+/usr/include/xcb/xcb.h:
+/usr/include/xcb/xc_misc.h:
+/usr/include/xcb/bigreq.h:
+/usr/include/xcb/render.h:
+/usr/include/xcb/dri3.h:
+/usr/include/xcb/xproto.h:(standard input)
+
+/usr/include/xcb/randr.h:
+/usr/include/xcb/shape.h:
+/usr/include/xcb/xfixes.h:
+/usr/include/xcb/sync.h:
+/usr/include/xcb/present.h:
+/usr/include/xcb/dri2.h:
+/usr/include/xcb/glx.h:
+/usr/include/starmicronics/platform/Linux.h:
+/usr/include/starmicronics/StarIOPort.h:
+/usr/include/starmicronics/Platform.h:
+/usr/include/c++/4.9/backward/backward_warning.h:
+/usr/include/c++/4.9/backward/binders.h:(standard input)
+
+/usr/include/c++/4.9/bits/alloc_traits.h:
+/usr/include/c++/4.9/bits/codecvt.h:(standard input)
+
+/usr/include/c++/4.9/bits/enable_special_members.h:(standard input)
+
+/usr/include/c++/4.9/bits/gslice.h:(standard input)
+
+/usr/include/c++/4.9/bits/gslice_array.h:(standard input)
+
+/usr/include/c++/4.9/bits/hashtable_policy.h:(standard input)
+
+/usr/include/c++/4.9/bits/indirect_array.h:(standard input)
+
+/usr/include/c++/4.9/bits/mask_array.h:(standard input)
+
+/usr/include/c++/4.9/bits/parse_numbers.h:
+/usr/include/c++/4.9/bits/predefined_ops.h:(standard input)
+
+/usr/include/c++/4.9/bits/ptr_traits.h:
+/usr/include/c++/4.9/bits/range_access.h:
+/usr/include/c++/4.9/bits/regex_constants.h:(standard input)
+
+/usr/include/c++/4.9/bits/regex_error.h:(standard input)
+
+/usr/include/c++/4.9/bits/slice_array.h:(standard input)
+
+/usr/include/c++/4.9/bits/stl_raw_storage_iter.h:(standard input)
+
+/usr/include/c++/4.9/bits/stl_relops.h:(standard input)
+
+/usr/include/c++/4.9/bits/stl_uninitialized.h:(standard input)
+
+/usr/include/c++/4.9/bits/unordered_map.h:(standard input)
+
+/usr/include/c++/4.9/bits/unordered_set.h:(standard input)
+
+/usr/include/c++/4.9/bits/valarray_after.h:(standard input)
+
+/usr/include/c++/4.9/bits/atomic_lockfree_defines.h:
+/usr/include/c++/4.9/bits/cxxabi_forced.h:
+/usr/include/c++/4.9/bits/exception_defines.h:
+/usr/include/c++/4.9/decimal/decimal.h:(standard input)
+
+/usr/include/c++/4.9/ext/cast.h:(standard input)
+
+/usr/include/c++/4.9/ext/sso_string_base.h:(standard input)
+
+/usr/include/c++/4.9/tr1/functional_hash.h:(standard input)
+
+/usr/include/c++/4.9/tr1/hashtable_policy.h:(standard input)
+
+/usr/include/c++/4.9/tr1/random.h:(standard input)
+
+/usr/include/c++/4.9/tr1/shared_ptr.h:(standard input)
+
+/usr/include/c++/4.9/tr1/special_function_util.h:(standard input)
+
+/usr/include/c++/4.9/tr1/unordered_map.h:(standard input)
+
+/usr/include/c++/4.9/tr1/unordered_set.h:(standard input)
+
+/usr/include/c++/4.9/debug/debug.h:(standard input)
+
+/usr/include/c++/4.9/debug/macros.h:
+/usr/include/c++/4.9/parallel/equally_split.h:(standard input)
+
+/usr/include/c++/4.9/parallel/features.h:
+/usr/include/c++/4.9/profile/impl/profiler_algos.h:(standard input)
+
+/usr/include/c++/4.9/profile/impl/profiler_state.h:(standard input)
+
+/usr/include/c++/4.9/profile/unordered_base.h:(standard input)
+
+/usr/include/c++/5/backward/backward_warning.h:
+/usr/include/c++/5/backward/binders.h:(standard input)
+
+/usr/include/c++/5/bits/alloc_traits.h:
+/usr/include/c++/5/bits/atomic_lockfree_defines.h:
+/usr/include/c++/5/bits/codecvt.h:(standard input)
+
+/usr/include/c++/5/bits/cxxabi_forced.h:
+/usr/include/c++/5/bits/enable_special_members.h:(standard input)
+
+/usr/include/c++/5/bits/exception_defines.h:
+/usr/include/c++/5/bits/gslice.h:(standard input)
+
+/usr/include/c++/5/bits/gslice_array.h:(standard input)
+
+/usr/include/c++/5/bits/hashtable_policy.h:(standard input)
+
+/usr/include/c++/5/bits/indirect_array.h:(standard input)
+
+/usr/include/c++/5/bits/mask_array.h:(standard input)
+
+/usr/include/c++/5/bits/parse_numbers.h:
+/usr/include/c++/5/bits/predefined_ops.h:(standard input)
+
+/usr/include/c++/5/bits/ptr_traits.h:
+/usr/include/c++/5/bits/range_access.h:
+/usr/include/c++/5/bits/regex_constants.h:(standard input)
+
+/usr/include/c++/5/bits/regex_error.h:(standard input)
+
+/usr/include/c++/5/bits/slice_array.h:(standard input)
+
+/usr/include/c++/5/bits/stl_raw_storage_iter.h:(standard input)
+
+/usr/include/c++/5/bits/stl_relops.h:(standard input)
+
+/usr/include/c++/5/bits/stl_uninitialized.h:(standard input)
+
+/usr/include/c++/5/bits/unordered_map.h:(standard input)
+
+/usr/include/c++/5/bits/unordered_set.h:(standard input)
+
+/usr/include/c++/5/bits/valarray_after.h:(standard input)
+
+/usr/include/c++/5/debug/debug.h:(standard input)
+
+/usr/include/c++/5/debug/macros.h:
+/usr/include/c++/5/decimal/decimal.h:(standard input)
+
+/usr/include/c++/5/ext/cast.h:(standard input)
+
+/usr/include/c++/5/ext/sso_string_base.h:(standard input)
+
+/usr/include/c++/5/parallel/equally_split.h:(standard input)
+
+/usr/include/c++/5/parallel/features.h:
+/usr/include/c++/5/profile/impl/profiler_algos.h:(standard input)
+
+/usr/include/c++/5/profile/impl/profiler_state.h:(standard input)
+
+/usr/include/c++/5/profile/ordered_base.h:(standard input)
+
+/usr/include/c++/5/profile/unordered_base.h:(standard input)
+
+/usr/include/c++/5/tr1/functional_hash.h:(standard input)
+
+/usr/include/c++/5/tr1/hashtable_policy.h:(standard input)
+
+/usr/include/c++/5/tr1/random.h:(standard input)
+
+/usr/include/c++/5/tr1/shared_ptr.h:(standard input)
+
+/usr/include/c++/5/tr1/special_function_util.h:(standard input)
+
+/usr/include/c++/5/tr1/unordered_map.h:(standard input)
+
+/usr/include/c++/5/tr1/unordered_set.h:(standard input)
+
+/usr/include/c++/3.3/backward/backward_warning.h:
+/usr/include/c++/3.3/bits/codecvt.h:(standard input)
+
+/usr/include/c++/3.3/bits/cpp_type_traits.h:(standard input)
+
+/usr/include/c++/3.3/bits/gslice.h:(standard input)
+
+/usr/include/c++/3.3/bits/gslice_array.h:(standard input)
+
+/usr/include/c++/3.3/bits/indirect_array.h:(standard input)
+
+/usr/include/c++/3.3/bits/mask_array.h:(standard input)
+
+/usr/include/c++/3.3/bits/stream_iterator.h:(standard input)
+
+/usr/include/c++/3.3/bits/slice_array.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_function.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_heap.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_iterator.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_iterator_base_types.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_numeric.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_pair.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_raw_storage_iter.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_relops.h:(standard input)
+
+/usr/include/c++/3.3/bits/stl_tempbuf.h:(standard input)
+
+/usr/include/c++/3.3/bits/valarray_meta.h:(standard input)
+
+/usr/include/c++/3.3/cxxabi.h:
+/usr/include/c++/3.3/exception_defines.h:
+/usr/include/c++/3.3/i486-linux-gnu/bits/ctype_inline.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/ctype_noninline.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/os_defines.h:
+/usr/include/c++/3.3/i486-linux-gnu/bits/atomicity.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/messages_members.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/time_members.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/codecvt_specializations.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/gthr-single.h:
+/usr/include/c++/3.3/i486-linux-gnu/bits/gthr-posix.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/gthr-default.h:(standard input)
+
+/usr/include/c++/3.3/i486-linux-gnu/bits/ctype_base.h:(standard input)
+
+/usr/include/tic.h:
+/usr/include/curses.h:
+/usr/include/termcap.h:
+/usr/include/unctrl.h:
+/usr/include/form.h:
+/usr/include/panel.h:
+/usr/include/ncurses_dll.h:
+/usr/include/menu.h:
+/usr/include/eti.h:
+/usr/include/term_entry.h:(standard input)
+
+/usr/include/term.h:
+/usr/include/nc_tparm.h:
+/usr/include/libpng12/png.h:
+/usr/include/libpng12/pngconf.h:(standard input)
+
+/usr/include/zlib.h:
+/usr/include/expat_external.h:
+/usr/include/expat.h:(standard input)
+
+/usr/include/multiboot/multiboot.h:
+/usr/include/slang.h:(standard input)
+
+/usr/include/GL/glx.h:
+/usr/include/GL/gl.h:
+/usr/include/GL/internal/dri_interface.h:(standard input)
+
+/usr/include/GL/internal/glcore.h:(standard input)
+
+/usr/include/GL/glxext.h:(standard input)
+
+/usr/include/GL/gl_mangle.h:
+/usr/include/GL/glext.h:(standard input)
+
+/usr/include/GL/glcorearb.h:
+/usr/include/GL/glxint.h:
+/usr/include/GL/glxtokens.h:
+/usr/include/GL/glxproto.h:(standard input)
+
+/usr/include/GL/glx_mangle.h:
+/usr/include/GL/glxmd.h:
+/usr/include/slcurses.h:(standard input)
+
+/usr/include/libltdl/lt_error.h:
+/usr/include/libltdl/lt_system.h:
+/usr/include/libltdl/lt_dlloader.h:
+/usr/include/ltdl.h:
+/usr/include/freetype2/freetype/ftmoderr.h:
+/usr/include/freetype2/freetype/fterrdef.h:(standard input)
+
+/usr/include/freetype2/freetype/ftchapters.h:
+/usr/include/freetype2/freetype/config/ftstdlib.h:
+/usr/include/freetype2/freetype/config/ftmodule.h:(standard input)
+
+/usr/include/freetype2/freetype/config/ftheader.h:
+/usr/include/jerror.h:
+/usr/include/jmorecfg.h:
+/usr/include/jpeglib.h:(standard input)
+
+/usr/include/jpegint.h:(standard input)
+
+/usr/include/cups/array.h:
+/usr/include/cups/backend.h:(standard input)
+
+/usr/include/cups/cups.h:(standard input)
+
+/usr/include/cups/dir.h:
+/usr/include/cups/file.h:
+/usr/include/cups/http.h:
+/usr/include/cups/i18n.h:
+/usr/include/cups/ipp.h:(standard input)
+
+/usr/include/cups/language.h:
+/usr/include/cups/ppd.h:(standard input)
+
+/usr/include/cups/pwg.h:(standard input)
+
+/usr/include/cups/sidechannel.h:(standard input)
+
+/usr/include/cups/transcode.h:
+/usr/include/cups/versioning.h:
+/usr/include/cups/raster.h:(standard input)
+
+/usr/include/cups/adminutil.h:(standard input)
+
+/usr/include/directfb/directfb_strings.h:(standard input)
+
+/usr/include/directfb/dfiff.h:(standard input)
+
+/usr/include/directfb/dgiff.h:
+/usr/include/directfb/directfb_keynames.h:(standard input)
+
+/usr/include/directfb/directfb_keyboard.h:
+/usr/include/directfb/unique/types.h:
+/usr/include/directfb/direct/memcpy.h:
+/usr/include/directfb/direct/build.h:
+/usr/include/directfb/direct/clock.h:
+/usr/include/directfb/direct/system.h:
+/usr/include/directfb/fusion/build.h:
+/usr/include/directfb/directfb_version.h:
+/usr/include/cupsfilters/colormanager.h:(standard input)
+
+/usr/include/cupsfilters/driver.h:(standard input)
+
+/usr/include/cupsfilters/image.h:(standard input)
+
+/usr/include/cupsfilters/raster.h:(standard input)
+
+/usr/include/cupsfilters/colord.h:(standard input)
+
+/usr/include/dlg_config.h:
+/usr/include/directfb-internal/fbdev/agp.h:(standard input)
+
+/usr/include/directfb-internal/core/coredefs.h:
+/usr/include/lzma.h:
+/usr/include/jbig85.h:
+/usr/include/jbig.h:
+/usr/include/dlg_keys.h:
+/usr/include/jbig_ar.h:
+/usr/include/dlg_colors.h:
+/usr/include/dialog.h:
+/usr/include/i386-linux-gnu/bits/initspin.h:
+/usr/include/i386-linux-gnu/bits/local_lim.h:
+/usr/include/i386-linux-gnu/bits/posix_opt.h:
+/usr/include/i386-linux-gnu/bits/posix2_lim.h:
+/usr/include/i386-linux-gnu/bits/posix1_lim.h:
+/usr/include/i386-linux-gnu/bits/pthreadtypes.h:
+/usr/include/i386-linux-gnu/bits/types.h:
+/usr/include/i386-linux-gnu/bits/sockaddr.h:
+/usr/include/i386-linux-gnu/bits/timex.h:
+/usr/include/i386-linux-gnu/bits/time.h:
+/usr/include/i386-linux-gnu/bits/wchar.h:
+/usr/include/i386-linux-gnu/bits/stdlib-bsearch.h:(standard input)
+
+/usr/include/i386-linux-gnu/bits/errno.h:
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+/usr/include/i386-linux-gnu/bits/sigset.h:
+/usr/include/i386-linux-gnu/bits/signum.h:
+/usr/include/i386-linux-gnu/bits/sysctl.h:
+/usr/include/i386-linux-gnu/bits/auxv.h:
+/usr/include/i386-linux-gnu/bits/fenvinline.h:
+/usr/include/i386-linux-gnu/bits/xopen_lim.h:
+/usr/include/i386-linux-gnu/tiffvers.h:
+/usr/include/i386-linux-gnu/sys/gmon_out.h:
+/usr/include/i386-linux-gnu/sys/gmon.h:
+/usr/include/i386-linux-gnu/sys/vlimit.h:(standard input)
+
+/usr/include/i386-linux-gnu/sys/sendfile.h:
+/usr/include/i386-linux-gnu/sys/poll.h:
+/usr/include/i386-linux-gnu/sys/fcntl.h:
+/usr/include/i386-linux-gnu/sys/sysmacros.h:
+/usr/include/i386-linux-gnu/sys/unistd.h:
+/usr/include/i386-linux-gnu/sys/stropts.h:
+/usr/include/i386-linux-gnu/sys/bitypes.h:
+/usr/include/i386-linux-gnu/sys/procfs.h:
+/usr/include/i386-linux-gnu/sys/shm.h:
+/usr/include/i386-linux-gnu/sys/sem.h:
+/usr/include/i386-linux-gnu/sys/msg.h:
+/usr/include/i386-linux-gnu/sys/ipc.h:
+/usr/include/i386-linux-gnu/sys/socketvar.h:
+/usr/include/i386-linux-gnu/sys/un.h:
+/usr/include/i386-linux-gnu/sys/socket.h:
+/usr/include/i386-linux-gnu/sys/vtimes.h:
+/usr/include/i386-linux-gnu/sys/resource.h:
+/usr/include/i386-linux-gnu/sys/ttychars.h:
+/usr/include/i386-linux-gnu/sys/termios.h:
+/usr/include/i386-linux-gnu/sys/ttydefaults.h:
+/usr/include/i386-linux-gnu/sys/statvfs.h:
+/usr/include/i386-linux-gnu/sys/vfs.h:
+/usr/include/i386-linux-gnu/sys/statfs.h:
+/usr/include/i386-linux-gnu/sys/stat.h:
+/usr/include/i386-linux-gnu/sys/types.h:
+/usr/include/i386-linux-gnu/sys/wait.h:
+/usr/include/i386-linux-gnu/sys/times.h:
+/usr/include/i386-linux-gnu/sys/utsname.h:
+/usr/include/i386-linux-gnu/sys/timex.h:
+/usr/include/i386-linux-gnu/sys/timeb.h:
+/usr/include/i386-linux-gnu/sys/time.h:
+/usr/include/i386-linux-gnu/sys/ucontext.h:
+/usr/include/i386-linux-gnu/sys/errno.h:
+/usr/include/i386-linux-gnu/sys/signal.h:
+/usr/include/i386-linux-gnu/sys/mtio.h:
+/usr/include/i386-linux-gnu/sys/fanotify.h:
+/usr/include/i386-linux-gnu/sys/timerfd.h:
+/usr/include/i386-linux-gnu/sys/eventfd.h:
+/usr/include/i386-linux-gnu/sys/signalfd.h:
+/usr/include/i386-linux-gnu/sys/inotify.h:
+/usr/include/i386-linux-gnu/sys/epoll.h:
+/usr/include/i386-linux-gnu/sys/personality.h:
+/usr/include/i386-linux-gnu/sys/raw.h:
+/usr/include/i386-linux-gnu/sys/ultrasound.h:
+/usr/include/i386-linux-gnu/sys/pci.h:
+/usr/include/i386-linux-gnu/sys/fsuid.h:
+/usr/include/i386-linux-gnu/sys/quota.h:
+/usr/include/i386-linux-gnu/sys/vt.h:
+/usr/include/i386-linux-gnu/sys/soundcard.h:
+/usr/include/i386-linux-gnu/sys/kd.h:
+/usr/include/i386-linux-gnu/sys/prctl.h:
+/usr/include/i386-linux-gnu/sys/user.h:
+/usr/include/i386-linux-gnu/sys/klog.h:
+/usr/include/i386-linux-gnu/sys/sysctl.h:
+/usr/include/i386-linux-gnu/sys/acct.h:
+/usr/include/i386-linux-gnu/sys/mount.h:
+/usr/include/i386-linux-gnu/sys/io.h:
+/usr/include/i386-linux-gnu/sys/debugreg.h:
+/usr/include/i386-linux-gnu/sys/vm86.h:
+/usr/include/i386-linux-gnu/sys/reg.h:
+/usr/include/i386-linux-gnu/sys/perm.h:
+/usr/include/i386-linux-gnu/sys/elf.h:
+/usr/include/i386-linux-gnu/sys/auxv.h:
+/usr/include/i386-linux-gnu/sys/syslog.h:
+/usr/include/i386-linux-gnu/sys/xattr.h:
+/usr/include/i386-linux-gnu/sys/sysinfo.h:
+/usr/include/i386-linux-gnu/sys/ustat.h:
+/usr/include/i386-linux-gnu/sys/select.h:
+/usr/include/i386-linux-gnu/sys/swap.h:
+/usr/include/i386-linux-gnu/sys/syscall.h:
+/usr/include/i386-linux-gnu/sys/queue.h:
+/usr/include/i386-linux-gnu/sys/param.h:
+/usr/include/i386-linux-gnu/sys/mman.h:
+/usr/include/i386-linux-gnu/sys/reboot.h:
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+/usr/include/i386-linux-gnu/sys/dir.h:
+/usr/include/i386-linux-gnu/sys/file.h:
+/usr/include/i386-linux-gnu/sys/ptrace.h:(standard input)
+
+/usr/include/i386-linux-gnu/sys/ioctl.h:
+/usr/include/i386-linux-gnu/sys/uio.h:
+/usr/include/i386-linux-gnu/sys/profil.h:
+/usr/include/i386-linux-gnu/a.out.h:
+/usr/include/i386-linux-gnu/ieee754.h:
+/usr/include/i386-linux-gnu/asm/unistd_64.h:
+/usr/include/i386-linux-gnu/asm/unistd_32.h:
+/usr/include/i386-linux-gnu/asm/msr-index.h:
+/usr/include/i386-linux-gnu/asm/vsyscall.h:
+/usr/include/i386-linux-gnu/asm/vmx.h:
+/usr/include/i386-linux-gnu/asm/vm86.h:
+/usr/include/i386-linux-gnu/asm/unistd.h:
+/usr/include/i386-linux-gnu/asm/ucontext.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/types.h:
+/usr/include/i386-linux-gnu/asm/termios.h:
+/usr/include/i386-linux-gnu/asm/termbits.h:
+/usr/include/i386-linux-gnu/asm/swab.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/svm.h:
+/usr/include/i386-linux-gnu/asm/statfs.h:
+/usr/include/i386-linux-gnu/asm/stat.h:
+/usr/include/i386-linux-gnu/asm/sockios.h:
+/usr/include/i386-linux-gnu/asm/socket.h:
+/usr/include/i386-linux-gnu/asm/signal.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/siginfo.h:
+/usr/include/i386-linux-gnu/asm/sigcontext32.h:
+/usr/include/i386-linux-gnu/asm/sigcontext.h:
+/usr/include/i386-linux-gnu/asm/shmbuf.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/setup.h:
+/usr/include/i386-linux-gnu/asm/sembuf.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/resource.h:
+/usr/include/i386-linux-gnu/asm/ptrace.h:
+/usr/include/i386-linux-gnu/asm/ptrace-abi.h:
+/usr/include/i386-linux-gnu/asm/processor-flags.h:
+/usr/include/i386-linux-gnu/asm/prctl.h:
+/usr/include/i386-linux-gnu/asm/posix_types_x32.h:
+/usr/include/i386-linux-gnu/asm/posix_types_64.h:
+/usr/include/i386-linux-gnu/asm/posix_types_32.h:
+/usr/include/i386-linux-gnu/asm/posix_types.h:
+/usr/include/i386-linux-gnu/asm/poll.h:
+/usr/include/i386-linux-gnu/asm/perf_regs.h:
+/usr/include/i386-linux-gnu/asm/param.h:
+/usr/include/i386-linux-gnu/asm/mtrr.h:
+/usr/include/i386-linux-gnu/asm/msr.h:
+/usr/include/i386-linux-gnu/asm/msgbuf.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/mman.h:
+/usr/include/i386-linux-gnu/asm/mce.h:
+/usr/include/i386-linux-gnu/asm/ldt.h:
+/usr/include/i386-linux-gnu/asm/kvm_perf.h:
+/usr/include/i386-linux-gnu/asm/kvm_para.h:
+/usr/include/i386-linux-gnu/asm/kvm.h:
+/usr/include/i386-linux-gnu/asm/ist.h:
+/usr/include/i386-linux-gnu/asm/ipcbuf.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/ioctls.h:
+/usr/include/i386-linux-gnu/asm/ioctl.h:
+/usr/include/i386-linux-gnu/asm/hyperv.h:
+/usr/include/i386-linux-gnu/asm/hw_breakpoint.h:
+/usr/include/i386-linux-gnu/asm/fcntl.h:
+/usr/include/i386-linux-gnu/asm/errno.h:
+/usr/include/i386-linux-gnu/asm/e820.h:
+/usr/include/i386-linux-gnu/asm/debugreg.h:
+/usr/include/i386-linux-gnu/asm/byteorder.h:(standard input)
+
+/usr/include/i386-linux-gnu/asm/bootparam.h:
+/usr/include/i386-linux-gnu/asm/boot.h:
+/usr/include/i386-linux-gnu/asm/bitsperlong.h:
+/usr/include/i386-linux-gnu/asm/auxvec.h:
+/usr/include/i386-linux-gnu/asm/a.out.h:
+/usr/include/i386-linux-gnu/asm/vm86.h_:
+/usr/include/i386-linux-gnu/asm/unistd_x32.h:
+/usr/include/i386-linux-gnu/c++/4.9/bits/ctype_inline.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/4.9/bits/os_defines.h:
+/usr/include/i386-linux-gnu/c++/4.9/bits/atomic_word.h:
+/usr/include/i386-linux-gnu/c++/4.9/bits/cxxabi_tweaks.h:
+/usr/include/i386-linux-gnu/c++/4.9/bits/cpu_defines.h:
+/usr/include/i386-linux-gnu/c++/4.9/bits/messages_members.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/4.9/bits/time_members.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/4.9/bits/gthr-single.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/4.9/bits/gthr-posix.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/4.9/bits/gthr-default.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/4.9/bits/ctype_base.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/4.9/ext/opt_random.h:
+/usr/include/i386-linux-gnu/c++/5/bits/cpu_defines.h:
+/usr/include/i386-linux-gnu/c++/5/bits/ctype_base.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/5/bits/ctype_inline.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/5/bits/cxxabi_tweaks.h:
+/usr/include/i386-linux-gnu/c++/5/bits/gthr-default.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/5/bits/gthr-posix.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/5/bits/gthr-single.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/5/bits/messages_members.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/5/bits/os_defines.h:
+/usr/include/i386-linux-gnu/c++/5/bits/time_members.h:(standard input)
+
+/usr/include/i386-linux-gnu/c++/5/bits/atomic_word.h:
+/usr/include/i386-linux-gnu/c++/5/ext/opt_random.h:
+/usr/include/i386-linux-gnu/jconfig.h:
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+/usr/include/i386-linux-gnu/gnu/lib-names.h:
+/usr/include/i386-linux-gnu/gnu/libc-version.h:
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+/usr/include/i386-linux-gnu/fpu_control.h:
+/usr/include/i386-linux-gnu/zconf.h:
+/usr/include/i386-linux-gnu/tiffio.h:
+/usr/include/i386-linux-gnu/tiffconf.h:
+/usr/include/i386-linux-gnu/tiff.h:
+/usr/include/alsa/asoundef.h:
+/usr/include/alsa/asoundlib.h:(standard input)
+
+/usr/include/alsa/conf.h:(standard input)
+
+/usr/include/alsa/control.h:(standard input)
+
+/usr/include/alsa/control_external.h:(standard input)
+
+/usr/include/alsa/error.h:(standard input)
+
+/usr/include/alsa/global.h:
+/usr/include/alsa/hwdep.h:(standard input)
+
+/usr/include/alsa/iatomic.h:(standard input)
+
+/usr/include/alsa/input.h:(standard input)
+
+/usr/include/alsa/mixer.h:(standard input)
+
+/usr/include/alsa/mixer_abst.h:(standard input)
+
+/usr/include/alsa/output.h:(standard input)
+
+/usr/include/alsa/pcm.h:(standard input)
+
+/usr/include/alsa/pcm_external.h:(standard input)
+
+/usr/include/alsa/pcm_extplug.h:(standard input)
+
+/usr/include/alsa/pcm_ioplug.h:(standard input)
+
+/usr/include/alsa/pcm_old.h:
+/usr/include/alsa/pcm_plugin.h:(standard input)
+
+/usr/include/alsa/pcm_rate.h:(standard input)
+
+/usr/include/alsa/rawmidi.h:(standard input)
+
+/usr/include/alsa/seq.h:(standard input)
+
+/usr/include/alsa/seq_event.h:
+/usr/include/alsa/seq_midi_event.h:(standard input)
+
+/usr/include/alsa/seqmid.h:(standard input)
+
+/usr/include/alsa/timer.h:(standard input)
+
+/usr/include/alsa/topology.h:(standard input)
+
+/usr/include/alsa/use-case.h:
+/usr/include/alsa/version.h:
+/usr/include/alsa/sound/asound_fm.h:
+/usr/include/alsa/sound/emu10k1.h:
+/usr/include/alsa/sound/hdsp.h:
+/usr/include/alsa/sound/hdspm.h:(standard input)
+
+/usr/include/alsa/sound/sb16_csp.h:
+/usr/include/alsa/sound/sscape_ioctl.h:
+/usr/include/alsa/sound/tlv.h:
+/usr/include/alsa/sound/type_compat.h:
+/usr/include/alsa/sound/asoc.h:(standard input)
+
+/usr/include/alsa/alisp.h:(standard input)
+
+/usr/include/sys/asoundlib.h:(standard input)
+
+/usr/include/gpm.h:(standard input)
+
+/usr/include/linux/zorro_ids.h:
+/usr/include/linux/zorro.h:
+/usr/include/linux/xilinx-v4l2-controls.h:
+/usr/include/linux/xfrm.h:
+/usr/include/linux/xattr.h:
+/usr/include/linux/x25.h:
+/usr/include/linux/wireless.h:
+/usr/include/linux/wimax.h:
+/usr/include/linux/watchdog.h:
+/usr/include/linux/wanrouter.h:
+/usr/include/linux/wait.h:
+/usr/include/linux/vt.h:
+/usr/include/linux/vm_sockets.h:
+/usr/include/linux/virtio_types.h:
+/usr/include/linux/virtio_scsi.h:
+/usr/include/linux/virtio_rng.h:
+/usr/include/linux/virtio_ring.h:
+/usr/include/linux/virtio_pci.h:
+/usr/include/linux/virtio_net.h:
+/usr/include/linux/virtio_input.h:
+/usr/include/linux/virtio_ids.h:
+/usr/include/linux/virtio_gpu.h:
+/usr/include/linux/virtio_console.h:
+/usr/include/linux/virtio_config.h:
+/usr/include/linux/virtio_blk.h:
+/usr/include/linux/virtio_balloon.h:
+/usr/include/linux/virtio_9p.h:
+/usr/include/linux/videodev2.h:
+/usr/include/linux/vhost.h:
+/usr/include/linux/vfio.h:
+/usr/include/linux/veth.h:
+/usr/include/linux/v4l2-subdev.h:
+/usr/include/linux/v4l2-mediabus.h:
+/usr/include/linux/v4l2-dv-timings.h:
+/usr/include/linux/v4l2-controls.h:
+/usr/include/linux/v4l2-common.h:
+/usr/include/linux/uvcvideo.h:
+/usr/include/linux/uuid.h:
+/usr/include/linux/utsname.h:
+/usr/include/linux/utime.h:
+/usr/include/linux/userfaultfd.h:
+/usr/include/linux/usbip.h:
+/usr/include/linux/usbdevice_fs.h:
+/usr/include/linux/unix_diag.h:
+/usr/include/linux/unistd.h:
+/usr/include/linux/un.h:
+/usr/include/linux/ultrasound.h:
+/usr/include/linux/uio.h:
+/usr/include/linux/uinput.h:
+/usr/include/linux/uhid.h:
+/usr/include/linux/udp.h:
+/usr/include/linux/udf_fs_i.h:
+/usr/include/linux/types.h:
+/usr/include/linux/tty_flags.h:
+/usr/include/linux/tty.h:
+/usr/include/linux/toshiba.h:
+/usr/include/linux/tipc_netlink.h:
+/usr/include/linux/tipc_config.h:(standard input)
+
+/usr/include/linux/tipc.h:(standard input)
+
+/usr/include/linux/tiocl.h:
+/usr/include/linux/timex.h:
+/usr/include/linux/times.h:
+/usr/include/linux/time.h:
+/usr/include/linux/thermal.h:
+/usr/include/linux/termios.h:
+/usr/include/linux/telephony.h:
+/usr/include/linux/tcp_metrics.h:
+/usr/include/linux/tcp.h:(standard input)
+
+/usr/include/linux/taskstats.h:
+/usr/include/linux/target_core_user.h:(standard input)
+
+/usr/include/linux/sysinfo.h:
+/usr/include/linux/sysctl.h:(standard input)
+
+/usr/include/linux/synclink.h:
+/usr/include/linux/swab.h:(standard input)
+
+/usr/include/linux/suspend_ioctls.h:
+/usr/include/linux/string.h:
+/usr/include/linux/stddef.h:
+/usr/include/linux/stat.h:
+/usr/include/linux/soundcard.h:
+/usr/include/linux/sound.h:
+/usr/include/linux/sonypi.h:
+/usr/include/linux/sonet.h:
+/usr/include/linux/sockios.h:
+/usr/include/linux/socket.h:
+/usr/include/linux/sock_diag.h:
+/usr/include/linux/snmp.h:
+/usr/include/linux/smiapp.h:
+/usr/include/linux/signalfd.h:
+/usr/include/linux/signal.h:(standard input)
+
+/usr/include/linux/shm.h:
+/usr/include/linux/serio.h:
+/usr/include/linux/serial_reg.h:
+/usr/include/linux/serial_core.h:
+/usr/include/linux/serial.h:
+/usr/include/linux/sem.h:
+/usr/include/linux/selinux_netlink.h:
+/usr/include/linux/securebits.h:
+/usr/include/linux/seccomp.h:
+/usr/include/linux/sdla.h:
+/usr/include/linux/sctp.h:(standard input)
+
+/usr/include/linux/screen_info.h:
+/usr/include/linux/scif_ioctl.h:
+/usr/include/linux/sched.h:
+/usr/include/linux/scc.h:
+/usr/include/linux/rtnetlink.h:
+/usr/include/linux/rtc.h:
+/usr/include/linux/route.h:
+/usr/include/linux/rose.h:
+/usr/include/linux/romfs_fs.h:
+/usr/include/linux/rfkill.h:
+/usr/include/linux/resource.h:
+/usr/include/linux/reiserfs_xattr.h:(standard input)
+
+/usr/include/linux/reiserfs_fs.h:
+/usr/include/linux/reboot.h:
+/usr/include/linux/rds.h:(standard input)
+
+/usr/include/linux/raw.h:
+/usr/include/linux/random.h:
+/usr/include/linux/radeonfb.h:
+/usr/include/linux/quota.h:
+/usr/include/linux/qnxtypes.h:
+/usr/include/linux/qnx4_fs.h:
+/usr/include/linux/ptrace.h:
+/usr/include/linux/ptp_clock.h:
+/usr/include/linux/psci.h:
+/usr/include/linux/prctl.h:
+/usr/include/linux/pps.h:
+/usr/include/linux/ppp_defs.h:
+/usr/include/linux/ppp-ioctl.h:(standard input)
+
+/usr/include/linux/ppp-comp.h:
+/usr/include/linux/ppdev.h:
+/usr/include/linux/posix_types.h:
+/usr/include/linux/poll.h:
+/usr/include/linux/pmu.h:
+/usr/include/linux/pktcdvd.h:
+/usr/include/linux/pkt_sched.h:
+/usr/include/linux/pkt_cls.h:
+/usr/include/linux/phonet.h:(standard input)
+
+/usr/include/linux/phantom.h:
+/usr/include/linux/pg.h:
+/usr/include/linux/pfkeyv2.h:
+/usr/include/linux/personality.h:
+/usr/include/linux/perf_event.h:(standard input)
+
+/usr/include/linux/pci_regs.h:
+/usr/include/linux/pci.h:
+/usr/include/linux/parport.h:
+/usr/include/linux/param.h:
+/usr/include/linux/packet_diag.h:
+/usr/include/linux/openvswitch.h:(standard input)
+
+/usr/include/linux/oom.h:
+/usr/include/linux/omapfb.h:(standard input)
+
+/usr/include/linux/omap3isp.h:(standard input)
+
+/usr/include/linux/nvram.h:
+/usr/include/linux/nubus.h:
+/usr/include/linux/nl80211.h:
+/usr/include/linux/nfsacl.h:
+/usr/include/linux/nfs_mount.h:(standard input)
+
+/usr/include/linux/nfs_idmap.h:
+/usr/include/linux/nfs_fs.h:
+/usr/include/linux/nfs4_mount.h:
+/usr/include/linux/nfs4.h:
+/usr/include/linux/nfs3.h:
+/usr/include/linux/nfs2.h:
+/usr/include/linux/nfs.h:
+/usr/include/linux/nfc.h:(standard input)
+
+/usr/include/linux/netrom.h:
+/usr/include/linux/netlink_diag.h:
+/usr/include/linux/netlink.h:
+/usr/include/linux/netfilter_ipv6.h:(standard input)
+
+/usr/include/linux/netfilter_ipv4.h:(standard input)
+
+/usr/include/linux/netfilter_decnet.h:(standard input)
+
+/usr/include/linux/netfilter_bridge.h:(standard input)
+
+/usr/include/linux/netfilter_arp.h:(standard input)
+
+/usr/include/linux/netfilter.h:(standard input)
+
+/usr/include/linux/netdevice.h:
+/usr/include/linux/netconf.h:
+/usr/include/linux/net_tstamp.h:
+/usr/include/linux/net_namespace.h:
+/usr/include/linux/net_dropmon.h:
+/usr/include/linux/net.h:
+/usr/include/linux/neighbour.h:
+/usr/include/linux/ndctl.h:
+/usr/include/linux/ncp_no.h:
+/usr/include/linux/ncp_mount.h:
+/usr/include/linux/ncp_fs.h:(standard input)
+
+/usr/include/linux/ncp.h:
+/usr/include/linux/nbd.h:
+/usr/include/linux/n_r3964.h:
+/usr/include/linux/mtio.h:
+/usr/include/linux/msg.h:
+/usr/include/linux/msdos_fs.h:(standard input)
+
+/usr/include/linux/mroute6.h:
+/usr/include/linux/mroute.h:
+/usr/include/linux/mqueue.h:(standard input)
+
+/usr/include/linux/mpls.h:(standard input)
+
+/usr/include/linux/mmtimer.h:
+/usr/include/linux/mman.h:
+/usr/include/linux/minix_fs.h:
+/usr/include/linux/mii.h:
+/usr/include/linux/mic_ioctl.h:
+/usr/include/linux/mic_common.h:
+/usr/include/linux/meye.h:
+/usr/include/linux/mempolicy.h:
+/usr/include/linux/memfd.h:
+/usr/include/linux/membarrier.h:
+/usr/include/linux/mei.h:
+/usr/include/linux/media.h:
+/usr/include/linux/media-bus-format.h:
+/usr/include/linux/mdio.h:
+/usr/include/linux/matroxfb.h:
+/usr/include/linux/map_to_7segment.h:
+/usr/include/linux/major.h:
+/usr/include/linux/magic.h:
+/usr/include/linux/lp.h:
+/usr/include/linux/lwtunnel.h:
+/usr/include/linux/loop.h:
+/usr/include/linux/llc.h:
+/usr/include/linux/limits.h:
+/usr/include/linux/libc-compat.h:
+/usr/include/linux/l2tp.h:
+/usr/include/linux/kvm_para.h:
+/usr/include/linux/kvm.h:
+/usr/include/linux/keyctl.h:
+/usr/include/linux/keyboard.h:
+/usr/include/linux/kexec.h:(standard input)
+
+/usr/include/linux/kernelcapi.h:
+/usr/include/linux/kernel.h:
+/usr/include/linux/kernel-page-flags.h:
+/usr/include/linux/kdev_t.h:
+/usr/include/linux/kd.h:
+/usr/include/linux/kcmp.h:
+/usr/include/linux/joystick.h:
+/usr/include/linux/jffs2.h:
+/usr/include/linux/ixjuser.h:
+/usr/include/linux/ivtvfb.h:
+/usr/include/linux/ivtv.h:(standard input)
+
+/usr/include/linux/iso_fs.h:
+/usr/include/linux/isdnif.h:
+/usr/include/linux/isdn_ppp.h:
+/usr/include/linux/isdn_divertif.h:
+/usr/include/linux/isdn.h:
+/usr/include/linux/irqnr.h:
+/usr/include/linux/irda.h:
+/usr/include/linux/ipx.h:
+/usr/include/linux/ipv6_route.h:
+/usr/include/linux/ipv6.h:(standard input)
+
+/usr/include/linux/ipsec.h:
+/usr/include/linux/ipmi_msgdefs.h:
+/usr/include/linux/ipmi.h:
+/usr/include/linux/ipc.h:
+/usr/include/linux/ip_vs.h:
+/usr/include/linux/ip6_tunnel.h:
+/usr/include/linux/ip.h:(standard input)
+
+/usr/include/linux/ioctl.h:
+/usr/include/linux/input.h:
+/usr/include/linux/inotify.h:
+/usr/include/linux/inet_diag.h:
+/usr/include/linux/in_route.h:
+/usr/include/linux/in6.h:
+/usr/include/linux/in.h:(standard input)
+
+/usr/include/linux/igmp.h:(standard input)
+
+/usr/include/linux/if_x25.h:
+/usr/include/linux/if_vlan.h:
+/usr/include/linux/if_tunnel.h:(standard input)
+
+/usr/include/linux/if_tun.h:
+/usr/include/linux/if_team.h:
+/usr/include/linux/if_slip.h:
+/usr/include/linux/if_pppox.h:(standard input)
+
+/usr/include/linux/if_pppol2tp.h:
+/usr/include/linux/if_ppp.h:(standard input)
+
+/usr/include/linux/if_plip.h:
+/usr/include/linux/if_phonet.h:
+/usr/include/linux/if_packet.h:
+/usr/include/linux/if_ltalk.h:
+/usr/include/linux/if_link.h:
+/usr/include/linux/if_infiniband.h:
+/usr/include/linux/if_hippi.h:(standard input)
+
+/usr/include/linux/if_frad.h:
+/usr/include/linux/if_fddi.h:
+/usr/include/linux/if_fc.h:
+/usr/include/linux/if_ether.h:
+/usr/include/linux/if_eql.h:
+/usr/include/linux/if_cablemodem.h:
+/usr/include/linux/if_bridge.h:
+/usr/include/linux/if_bonding.h:
+/usr/include/linux/if_arp.h:
+/usr/include/linux/if_arcnet.h:
+/usr/include/linux/if_alg.h:
+/usr/include/linux/if_addrlabel.h:
+/usr/include/linux/if_addr.h:
+/usr/include/linux/if.h:
+/usr/include/linux/icmpv6.h:(standard input)
+
+/usr/include/linux/icmp.h:
+/usr/include/linux/i8k.h:
+/usr/include/linux/i2o-dev.h:
+/usr/include/linux/i2c.h:
+/usr/include/linux/i2c-dev.h:
+/usr/include/linux/hysdn_if.h:
+/usr/include/linux/hyperv.h:
+/usr/include/linux/hw_breakpoint.h:
+/usr/include/linux/hsr_netlink.h:
+/usr/include/linux/hpet.h:
+/usr/include/linux/hidraw.h:
+/usr/include/linux/hiddev.h:
+/usr/include/linux/hid.h:
+/usr/include/linux/hdreg.h:
+/usr/include/linux/hdlcdrv.h:
+/usr/include/linux/hdlc.h:
+/usr/include/linux/gsmmux.h:
+/usr/include/linux/gigaset_dev.h:
+/usr/include/linux/gfs2_ondisk.h:
+/usr/include/linux/genetlink.h:
+/usr/include/linux/gen_stats.h:
+/usr/include/linux/gameport.h:
+/usr/include/linux/futex.h:
+/usr/include/linux/fuse.h:
+/usr/include/linux/fsl_hypervisor.h:
+/usr/include/linux/fs.h:
+/usr/include/linux/fou.h:
+/usr/include/linux/flat.h:
+/usr/include/linux/firewire-constants.h:
+/usr/include/linux/firewire-cdev.h:
+/usr/include/linux/filter.h:
+/usr/include/linux/fiemap.h:
+/usr/include/linux/fib_rules.h:
+/usr/include/linux/fdreg.h:
+/usr/include/linux/fd.h:
+/usr/include/linux/fcntl.h:
+/usr/include/linux/fb.h:
+/usr/include/linux/fanotify.h:
+/usr/include/linux/falloc.h:
+/usr/include/linux/fadvise.h:
+/usr/include/linux/eventpoll.h:
+/usr/include/linux/ethtool.h:
+/usr/include/linux/errqueue.h:
+/usr/include/linux/errno.h:
+/usr/include/linux/elfcore.h:(standard input)
+
+/usr/include/linux/elf.h:
+/usr/include/linux/elf-fdpic.h:
+/usr/include/linux/elf-em.h:
+/usr/include/linux/efs_fs_sb.h:
+/usr/include/linux/edd.h:
+/usr/include/linux/dqblk_xfs.h:
+/usr/include/linux/dn.h:
+/usr/include/linux/dm-log-userspace.h:(standard input)
+
+/usr/include/linux/dm-ioctl.h:
+/usr/include/linux/dlmconstants.h:
+/usr/include/linux/dlm_plock.h:
+/usr/include/linux/dlm_netlink.h:
+/usr/include/linux/dlm_device.h:
+/usr/include/linux/dlm.h:
+/usr/include/linux/dccp.h:(standard input)
+
+/usr/include/linux/dcbnl.h:
+/usr/include/linux/cycx_cfm.h:
+/usr/include/linux/cyclades.h:
+/usr/include/linux/cuda.h:
+/usr/include/linux/cramfs_fs.h:
+/usr/include/linux/const.h:
+/usr/include/linux/connector.h:
+/usr/include/linux/coff.h:
+/usr/include/linux/coda_psdev.h:(standard input)
+
+/usr/include/linux/coda.h:(standard input)
+
+/usr/include/linux/cn_proc.h:
+/usr/include/linux/cm4000_cs.h:
+/usr/include/linux/chio.h:
+/usr/include/linux/cgroupstats.h:
+/usr/include/linux/cdrom.h:(standard input)
+
+/usr/include/linux/cciss_ioctl.h:
+/usr/include/linux/cciss_defs.h:
+/usr/include/linux/capi.h:
+/usr/include/linux/capability.h:
+/usr/include/linux/can.h:
+/usr/include/linux/btrfs.h:(standard input)
+
+/usr/include/linux/bsg.h:
+/usr/include/linux/bpqether.h:
+/usr/include/linux/bpf_common.h:
+/usr/include/linux/bpf.h:
+/usr/include/linux/blktrace_api.h:
+/usr/include/linux/blkpg.h:
+/usr/include/linux/binfmts.h:
+/usr/include/linux/bfs_fs.h:
+/usr/include/linux/bcm933xx_hcs.h:
+/usr/include/linux/baycom.h:
+/usr/include/linux/b1lli.h:
+/usr/include/linux/ax25.h:
+/usr/include/linux/auxvec.h:
+/usr/include/linux/auto_fs4.h:
+/usr/include/linux/auto_fs.h:
+/usr/include/linux/audit.h:
+/usr/include/linux/atmsvc.h:(standard input)
+
+/usr/include/linux/atmsap.h:
+/usr/include/linux/atmppp.h:
+/usr/include/linux/atmmpc.h:
+/usr/include/linux/atmlec.h:
+/usr/include/linux/atmioc.h:
+/usr/include/linux/atmdev.h:
+/usr/include/linux/atmclip.h:
+/usr/include/linux/atmbr2684.h:
+/usr/include/linux/atmarp.h:(standard input)
+
+/usr/include/linux/atmapi.h:
+/usr/include/linux/atm_zatm.h:
+/usr/include/linux/atm_tcp.h:
+/usr/include/linux/atm_nicstar.h:
+/usr/include/linux/atm_idt77105.h:
+/usr/include/linux/atm_he.h:
+/usr/include/linux/atm_eni.h:
+/usr/include/linux/atm.h:
+/usr/include/linux/atalk.h:(standard input)
+
+/usr/include/linux/arcfb.h:
+/usr/include/linux/apm_bios.h:
+/usr/include/linux/am437x-vpfe.h:(standard input)
+
+/usr/include/linux/aio_abi.h:(standard input)
+
+/usr/include/linux/agpgart.h:
+/usr/include/linux/affs_hardblocks.h:
+/usr/include/linux/adfs_fs.h:
+/usr/include/linux/adb.h:
+/usr/include/linux/acct.h:(standard input)
+
+/usr/include/linux/a.out.h:
+/usr/include/linux/ila.h:
+/usr/include/linux/devlink.h:
+/usr/include/linux/gpio.h:
+/usr/include/linux/gtp.h:
+/usr/include/linux/if_macsec.h:
+/usr/include/linux/input-event-codes.h:
+/usr/include/linux/lirc.h:
+/usr/include/linux/mpls_iptunnel.h:
+/usr/include/linux/wimax/i2400m.h:
+/usr/include/linux/nvme_ioctl.h:
+/usr/include/linux/rio_mport_cdev.h:
+/usr/include/linux/tc_ematch/tc_em_nbyte.h:
+/usr/include/linux/tc_ematch/tc_em_meta.h:
+/usr/include/linux/tc_ematch/tc_em_cmp.h:
+/usr/include/linux/tc_ematch/tc_em_text.h:
+/usr/include/linux/usb/tmc.h:
+/usr/include/linux/usb/midi.h:
+/usr/include/linux/usb/gadgetfs.h:(standard input)
+
+/usr/include/linux/usb/g_printer.h:
+/usr/include/linux/usb/functionfs.h:(standard input)
+
+/usr/include/linux/usb/ch9.h:(standard input)
+
+/usr/include/linux/usb/ch11.h:
+/usr/include/linux/usb/cdc.h:
+/usr/include/linux/usb/cdc-wdm.h:
+/usr/include/linux/usb/audio.h:
+/usr/include/linux/usb/video.h:
+/usr/include/linux/netfilter_ipv6/ip6t_opts.h:
+/usr/include/linux/netfilter_ipv6/ip6t_mh.h:
+/usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h:
+/usr/include/linux/netfilter_ipv6/ip6t_hl.h:
+/usr/include/linux/netfilter_ipv6/ip6t_frag.h:
+/usr/include/linux/netfilter_ipv6/ip6t_ah.h:
+/usr/include/linux/netfilter_ipv6/ip6t_REJECT.h:
+/usr/include/linux/netfilter_ipv6/ip6t_NPT.h:(standard input)
+
+/usr/include/linux/netfilter_ipv6/ip6t_LOG.h:
+/usr/include/linux/netfilter_ipv6/ip6t_HL.h:
+/usr/include/linux/netfilter_ipv6/ip6_tables.h:(standard input)
+
+/usr/include/linux/netfilter_ipv6/ip6t_rt.h:
+/usr/include/linux/tc_act/tc_skbedit.h:
+/usr/include/linux/tc_act/tc_pedit.h:
+/usr/include/linux/tc_act/tc_nat.h:
+/usr/include/linux/tc_act/tc_mirred.h:
+/usr/include/linux/tc_act/tc_ipt.h:
+/usr/include/linux/tc_act/tc_gact.h:
+/usr/include/linux/tc_act/tc_defact.h:
+/usr/include/linux/tc_act/tc_csum.h:
+/usr/include/linux/tc_act/tc_connmark.h:
+/usr/include/linux/tc_act/tc_bpf.h:
+/usr/include/linux/tc_act/tc_ife.h:
+/usr/include/linux/tc_act/tc_vlan.h:
+/usr/include/linux/sunrpc/debug.h:
+/usr/include/linux/spi/spidev.h:
+/usr/include/linux/raid/md_p.h:(standard input)
+
+/usr/include/linux/raid/md_u.h:
+/usr/include/linux/nfsd/nfsfh.h:
+/usr/include/linux/nfsd/export.h:
+/usr/include/linux/nfsd/debug.h:
+/usr/include/linux/nfsd/cld.h:(standard input)
+
+/usr/include/linux/nfsd/stats.h:
+/usr/include/linux/isdn/capicmd.h:
+/usr/include/linux/mmc/ioctl.h:
+/usr/include/linux/netfilter_bridge/ebt_vlan.h:
+/usr/include/linux/netfilter_bridge/ebt_stp.h:
+/usr/include/linux/netfilter_bridge/ebt_redirect.h:
+/usr/include/linux/netfilter_bridge/ebt_pkttype.h:
+/usr/include/linux/netfilter_bridge/ebt_nflog.h:
+/usr/include/linux/netfilter_bridge/ebt_nat.h:
+/usr/include/linux/netfilter_bridge/ebt_mark_t.h:
+/usr/include/linux/netfilter_bridge/ebt_mark_m.h:
+/usr/include/linux/netfilter_bridge/ebt_log.h:
+/usr/include/linux/netfilter_bridge/ebt_limit.h:
+/usr/include/linux/netfilter_bridge/ebt_ip6.h:
+/usr/include/linux/netfilter_bridge/ebt_ip.h:
+/usr/include/linux/netfilter_bridge/ebt_arpreply.h:
+/usr/include/linux/netfilter_bridge/ebt_arp.h:
+/usr/include/linux/netfilter_bridge/ebt_among.h:
+/usr/include/linux/netfilter_bridge/ebt_802_3.h:
+/usr/include/linux/netfilter_bridge/ebtables.h:(standard input)
+
+/usr/include/linux/netfilter_ipv4/ipt_ecn.h:
+/usr/include/linux/netfilter_ipv4/ipt_ah.h:
+/usr/include/linux/netfilter_ipv4/ipt_TTL.h:
+/usr/include/linux/netfilter_ipv4/ipt_REJECT.h:(standard input)
+
+/usr/include/linux/netfilter_ipv4/ipt_LOG.h:
+/usr/include/linux/netfilter_ipv4/ipt_ECN.h:
+/usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h:
+/usr/include/linux/netfilter_ipv4/ip_tables.h:(standard input)
+
+/usr/include/linux/netfilter_ipv4/ipt_ttl.h:
+/usr/include/linux/netfilter_arp/arp_tables.h:(standard input)
+
+/usr/include/linux/netfilter_arp/arpt_mangle.h:(standard input)
+
+/usr/include/linux/netfilter/xt_time.h:
+/usr/include/linux/netfilter/xt_tcpudp.h:
+/usr/include/linux/netfilter/xt_tcpmss.h:
+/usr/include/linux/netfilter/xt_string.h:
+/usr/include/linux/netfilter/xt_statistic.h:
+/usr/include/linux/netfilter/xt_state.h:
+/usr/include/linux/netfilter/xt_socket.h:
+/usr/include/linux/netfilter/xt_set.h:
+/usr/include/linux/netfilter/xt_sctp.h:
+/usr/include/linux/netfilter/xt_rpfilter.h:
+/usr/include/linux/netfilter/xt_recent.h:(standard input)
+
+/usr/include/linux/netfilter/xt_realm.h:
+/usr/include/linux/netfilter/xt_rateest.h:
+/usr/include/linux/netfilter/xt_quota.h:
+/usr/include/linux/netfilter/xt_policy.h:(standard input)
+
+/usr/include/linux/netfilter/xt_pkttype.h:
+/usr/include/linux/netfilter/xt_physdev.h:
+/usr/include/linux/netfilter/xt_owner.h:
+/usr/include/linux/netfilter/xt_osf.h:(standard input)
+
+/usr/include/linux/netfilter/xt_nfacct.h:
+/usr/include/linux/netfilter/xt_multiport.h:
+/usr/include/linux/netfilter/xt_mark.h:
+/usr/include/linux/netfilter/xt_mac.h:
+/usr/include/linux/netfilter/xt_limit.h:
+/usr/include/linux/netfilter/xt_length.h:
+/usr/include/linux/netfilter/xt_l2tp.h:
+/usr/include/linux/netfilter/xt_ipvs.h:(standard input)
+
+/usr/include/linux/netfilter/xt_iprange.h:(standard input)
+
+/usr/include/linux/netfilter/xt_ipcomp.h:
+/usr/include/linux/netfilter/xt_helper.h:
+/usr/include/linux/netfilter/xt_hashlimit.h:
+/usr/include/linux/netfilter/xt_esp.h:
+/usr/include/linux/netfilter/xt_ecn.h:
+/usr/include/linux/netfilter/xt_dscp.h:
+/usr/include/linux/netfilter/xt_devgroup.h:
+/usr/include/linux/netfilter/xt_dccp.h:
+/usr/include/linux/netfilter/xt_cpu.h:
+/usr/include/linux/netfilter/xt_conntrack.h:(standard input)
+
+/usr/include/linux/netfilter/xt_connmark.h:
+/usr/include/linux/netfilter/xt_connlimit.h:(standard input)
+
+/usr/include/linux/netfilter/xt_connlabel.h:
+/usr/include/linux/netfilter/xt_connbytes.h:
+/usr/include/linux/netfilter/xt_comment.h:
+/usr/include/linux/netfilter/xt_cluster.h:
+/usr/include/linux/netfilter/xt_cgroup.h:
+/usr/include/linux/netfilter/xt_bpf.h:
+/usr/include/linux/netfilter/xt_addrtype.h:
+/usr/include/linux/netfilter/xt_TPROXY.h:(standard input)
+
+/usr/include/linux/netfilter/xt_TEE.h:(standard input)
+
+/usr/include/linux/netfilter/xt_TCPOPTSTRIP.h:
+/usr/include/linux/netfilter/xt_TCPMSS.h:
+/usr/include/linux/netfilter/xt_SECMARK.h:
+/usr/include/linux/netfilter/xt_RATEEST.h:
+/usr/include/linux/netfilter/xt_NFQUEUE.h:
+/usr/include/linux/netfilter/xt_NFLOG.h:
+/usr/include/linux/netfilter/xt_MARK.h:
+/usr/include/linux/netfilter/xt_LOG.h:
+/usr/include/linux/netfilter/xt_LED.h:
+/usr/include/linux/netfilter/xt_IDLETIMER.h:
+/usr/include/linux/netfilter/xt_HMARK.h:(standard input)
+
+/usr/include/linux/netfilter/xt_DSCP.h:
+/usr/include/linux/netfilter/xt_CT.h:
+/usr/include/linux/netfilter/xt_CONNSECMARK.h:
+/usr/include/linux/netfilter/xt_CONNMARK.h:
+/usr/include/linux/netfilter/xt_CLASSIFY.h:
+/usr/include/linux/netfilter/xt_CHECKSUM.h:
+/usr/include/linux/netfilter/xt_AUDIT.h:
+/usr/include/linux/netfilter/x_tables.h:
+/usr/include/linux/netfilter/nfnetlink_queue.h:
+/usr/include/linux/netfilter/nfnetlink_log.h:
+/usr/include/linux/netfilter/nfnetlink_cttimeout.h:
+/usr/include/linux/netfilter/nfnetlink_cthelper.h:
+/usr/include/linux/netfilter/nfnetlink_conntrack.h:
+/usr/include/linux/netfilter/nfnetlink_compat.h:
+/usr/include/linux/netfilter/nfnetlink_acct.h:
+/usr/include/linux/netfilter/nfnetlink.h:
+/usr/include/linux/netfilter/nf_tables_compat.h:
+/usr/include/linux/netfilter/nf_tables.h:
+/usr/include/linux/netfilter/nf_nat.h:(standard input)
+
+/usr/include/linux/netfilter/nf_conntrack_tuple_common.h:(standard input)
+
+/usr/include/linux/netfilter/nf_conntrack_tcp.h:
+/usr/include/linux/netfilter/nf_conntrack_sctp.h:(standard input)
+
+/usr/include/linux/netfilter/nf_conntrack_ftp.h:
+/usr/include/linux/netfilter/nf_conntrack_common.h:
+/usr/include/linux/netfilter/xt_SYNPROXY.h:
+/usr/include/linux/netfilter/xt_u32.h:
+/usr/include/linux/netfilter/ipset/ip_set_hash.h:
+/usr/include/linux/netfilter/ipset/ip_set_bitmap.h:
+/usr/include/linux/netfilter/ipset/ip_set.h:
+/usr/include/linux/netfilter/ipset/ip_set_list.h:
+/usr/include/linux/hdlc/ioctl.h:
+/usr/include/linux/iio/events.h:
+/usr/include/linux/iio/types.h:
+/usr/include/linux/hsi/cs-protocol.h:
+/usr/include/linux/hsi/hsi_char.h:(standard input)
+
+/usr/include/linux/caif/caif_socket.h:
+/usr/include/linux/caif/if_caif.h:
+/usr/include/linux/dvb/version.h:
+/usr/include/linux/dvb/osd.h:
+/usr/include/linux/dvb/net.h:
+/usr/include/linux/dvb/frontend.h:(standard input)
+
+/usr/include/linux/dvb/dmx.h:(standard input)
+
+/usr/include/linux/dvb/ca.h:
+/usr/include/linux/dvb/audio.h:
+/usr/include/linux/dvb/video.h:
+/usr/include/linux/can/netlink.h:
+/usr/include/linux/can/gw.h:
+/usr/include/linux/can/error.h:
+/usr/include/linux/can/bcm.h:
+/usr/include/linux/can/raw.h:
+/usr/include/linux/version.h:
+/usr/include/linux/byteorder/big_endian.h:(standard input)
+
+/usr/include/linux/byteorder/little_endian.h:(standard input)
+
+/usr/include/linux/android/binder.h:(standard input)
+
+/usr/include/libdrm/r600_pci_ids.h:(standard input)
+
+/usr/include/libdrm/radeon_cs_int.h:(standard input)
+
+/usr/include/libdrm/radeon_bo_int.h:(standard input)
+
+/usr/include/libdrm/radeon_cs_gem.h:(standard input)
+
+/usr/include/libdrm/radeon_bo_gem.h:
+/usr/include/libdrm/radeon_surface.h:(standard input)
+
+/usr/include/libdrm/radeon_cs.h:(standard input)
+
+/usr/include/libdrm/radeon_bo.h:
+/usr/include/libdrm/intel_debug.h:
+/usr/include/libdrm/intel_aub.h:(standard input)
+
+/usr/include/libdrm/intel_bufmgr.h:(standard input)
+
+/usr/include/libdrm/vmwgfx_drm.h:(standard input)
+
+/usr/include/libdrm/sis_drm.h:
+/usr/include/libdrm/savage_drm.h:
+/usr/include/libdrm/amdgpu_drm.h:(standard input)
+
+/usr/include/libdrm/radeon_drm.h:(standard input)
+
+/usr/include/libdrm/r128_drm.h:
+/usr/include/libdrm/qxl_drm.h:(standard input)
+
+/usr/include/libdrm/nouveau_drm.h:(standard input)
+
+/usr/include/libdrm/mga_drm.h:(standard input)
+
+/usr/include/libdrm/mach64_drm.h:
+/usr/include/libdrm/i915_drm.h:(standard input)
+
+/usr/include/libdrm/drm_sarea.h:(standard input)
+
+/usr/include/libdrm/drm_mode.h:(standard input)
+
+/usr/include/libdrm/drm_fourcc.h:
+/usr/include/libdrm/drm.h:(standard input)
+
+/usr/include/libdrm/amdgpu.h:(standard input)
+
+/usr/include/libdrm/nouveau/nouveau.h:
+/usr/include/libdrm/nouveau/nvif/ioctl.h:(standard input)
+
+/usr/include/libdrm/nouveau/nvif/if0003.h:(standard input)
+
+/usr/include/libdrm/nouveau/nvif/if0002.h:(standard input)
+
+/usr/include/libdrm/nouveau/nvif/cl9097.h:(standard input)
+
+/usr/include/libdrm/nouveau/nvif/cl0080.h:(standard input)
+
+/usr/include/libdrm/nouveau/nvif/class.h:
+/usr/include/libdrm/nouveau/nvif/unpack.h:
+/usr/include/openssl/krb5_asn.h:(standard input)
+
+/usr/include/openssl/pqueue.h:
+/usr/include/openssl/pem2.h:
+/usr/include/openssl/opensslv.h:
+/usr/include/openssl/ebcdic.h:
+/usr/include/openssl/obj_mac.h:
+/usr/include/openssl/ssl2.h:
+/usr/include/openssl/stack.h:(standard input)
+
+/usr/include/openssl/modes.h:
+/usr/include/openssl/ssl23.h:
+/usr/include/openssl/safestack.h:(standard input)
+
+/usr/include/tcpd.h:
+/usr/include/sensors/error.h:
+/usr/include/sensors/sensors.h:
+/usr/include/GLES3/gl3ext.h:
+/usr/include/GLES3/gl31.h:
+/usr/include/GLES3/gl3.h:
+/usr/include/GLES3/gl3platform.h:
+/usr/include/wayland-server-protocol.h:(standard input)
+
+/usr/include/wayland-cursor.h:
+/usr/include/wayland-version.h:
+/usr/include/wayland-egl-core.h:
+/usr/include/wayland-egl.h:(standard input)
+
+/usr/include/wayland-client-core.h:(standard input)
+
+/usr/include/wayland-client.h:(standard input)
+
+/usr/include/wayland-server-core.h:(standard input)
+
+/usr/include/wayland-server.h:(standard input)
+
+/usr/include/wayland-util.h:(standard input)
+
+/usr/include/KHR/khrplatform.h:
+/usr/include/EGL/eglmesaext.h:(standard input)
+
+/usr/include/EGL/eglextchromium.h:(standard input)
+
+/usr/include/EGL/egl.h:
+/usr/include/EGL/eglext.h:(standard input)
+
+/usr/include/EGL/eglplatform.h:
+/usr/include/xkbcommon/xkbcommon-keysyms.h:
+/usr/include/xkbcommon/xkbcommon-compose.h:(standard input)
+
+/usr/include/xkbcommon/xkbcommon-compat.h:
+/usr/include/xkbcommon/xkbcommon.h:(standard input)
+
+/usr/include/xkbcommon/xkbcommon-names.h:
+/usr/include/GLES2/gl2ext.h:(standard input)
+
+/usr/include/GLES2/gl2.h:
+/usr/include/GLES2/gl2platform.h:
+/usr/include/wayland-client-protocol.h:(standard input)
+
+/usr/include/sudo_plugin.h:(standard input)
+
